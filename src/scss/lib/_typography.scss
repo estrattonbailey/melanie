@@ -1,0 +1,96 @@
+:root {
+	color: $cb;
+	font-family: Consolas, 'Courier New', courier;
+	font-size: 80%;
+  font-weight: regular;
+  -webkit-font-smoothing: antialiased; 
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.004); 
+
+  @media (min-width: break(s)){
+    font-size: 100%;
+  }
+}
+h1, h2, h3, h4, h5, h6, p,
+.h1, .h2, .h3, .h4, .h5, .h6, .p {
+	font-weight: 100;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 2ex 0 .6ex;
+}
+h1,
+.h1 {
+  font-size: 2.8rem;
+	line-height: 1.1;
+}
+h2,
+.h2 {
+  font-size: 1.8rem;
+	line-height: 1.4;
+}
+h3,
+.h3 {
+  font-size: 1.4rem;
+	line-height: 1.4;
+}
+h4,
+.h4 {
+	font-size: 1.1rem;
+	line-height: 1.5;
+}
+h5,
+.h5 {
+	font-size: 0.9rem;
+	line-height: 1.6;
+}
+h6,
+.h6 {
+	font-size: 0.8rem;
+	line-height: 1.6;
+}
+p,
+.p {
+	font-size: 1.1rem;
+	font-weight: 100;
+	line-height: 1.7;
+}
+p {
+  margin: 2ex 0;
+}
+blockquote {
+  font-size: 1.5em;
+	margin: 3rem 0;
+	border-left: 4px solid #148ECC;
+}
+hr {
+  display: block;
+	background-color: currentColor;
+  color: inherit;
+	border: 0;
+	height: 1px;
+	width: 100%;
+}
+b, strong {
+  font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.light {
+	font-weight: 100;
+}
+.medium {
+	font-weight: 500;
+}
+.bold {
+	font-weight: 900;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.underline {
+	text-decoration: underline;
+}
+.decoration--none {
+  text-decoration: none;
+}
