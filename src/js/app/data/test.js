@@ -1,14 +1,15 @@
 export default [
   {
+    id: 0,
     prompt: `Hi :) welcome to my site. What are you looking for?`,
     answers: [
       {
         value: 'my work',
-        next: 'Why?' 
+        next: 1 
       },
       {
         value: 'funny jokes',
-        next: `What's funnier than a rhetoical question?` 
+        next: 2 
       },
       {
         value: 'GIFs',
@@ -17,32 +18,35 @@ export default [
     ]
   },
   {
+    id: 1,
     prompt: `Why?`,
     answers: [
       {
         value: 'I want to hire you!',
-        next: 'Mom?' 
+        next: 3 
       },
       {
         value: 'just curious',
-        next: 'Mom?' 
+        next: 3 
       }
     ]
   },
   {
+    id: 2,
     prompt: `What's funnier than a rhetorical question?`,
     answers: [
       {
         value: 'Yes',
-        next: 'Hi :) welcome to my site. What are you looking for?' 
+        next: 0 
       },
       {
         value: 'No',
-        next: 'Hi :) welcome to my site. What are you looking for?' 
+        next: 3 
       }
     ]
   },
   {
+    id: 3,
     prompt: `Mom?`,
     answers: [
       {

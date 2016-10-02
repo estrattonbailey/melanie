@@ -1,7 +1,6 @@
-// RESET
 button {
-	-webkit-appearance: none;
-	border: 0;
+  -webkit-appearance: none;
+  border: 0;
   border-radius: 0;
   background-color: transparent;
   color: inherit;
@@ -10,20 +9,16 @@ button[disabled],
 input[disabled] { 
   cursor: default 
 }
-
-// STYLES 
-// Buttons should be button.button or
-// element[rel="button"] for accessibility
 button.button,
 .button,
-a[rel="button"],
-.button[rel="button"],
+a[role="button"],
+.button[role="button"],
 input[type="submit"].button {
-  display: inline-block;
-	background-color: $c1;
-	color: white;
-	cursor: pointer;
-	padding: 0.7em 2em;
-	text-decoration: none;
-	text-align: center;
+  display: block;
+  background-color: transparent;
+  color: inherit;
+  cursor: pointer;
+  padding: 0.7em 2em;
+  text-decoration: none;
+  text-align: center;
 }

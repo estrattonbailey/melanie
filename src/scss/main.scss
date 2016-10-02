@@ -1,24 +1,11 @@
 @import "lib/normalize";
-@import "lib/breakpoints";
 @import "lib/display";
 @import "lib/widths";
 @import "lib/containers";
 @import "lib/utilities";
 @import "lib/colors";
-@import "lib/align";
 @import "lib/spacing";
-@import "lib/z-index";
 @import "lib/buttons";
 @import "lib/forms";
-@import "lib/lists";
-@import "lib/tables";
 @import "lib/typography";
 @import "lib/flexbox";
-
-.link {
-  color: $c1;
-  cursor: pointer;
-  &:hover {
-    color: darken($c1, 5%);
-  }
-}

@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parallelshell 'npm run js:dev' 'npm run css:dev' 'live-server'",
-    "js:build": "browserify src/js/index.js --debug -p [minifyify --map index.js.map --output index.js.map] > index.js",
+    "start": "parallelshell 'npm run js:dev' 'npm run css:dev'",
+    "js:build": "browserify src/js/index.js -p [minifyify --no-map] > index.js",
     "js:dev": "watchify src/js/index.js -v -d -o index.js",
     "css:build": "node-sass src/scss/main.scss | postcss -u autoprefixer > style.css",
     "css:dev": "onchange 'src/**/*.scss' -- npm run css:build"
@@ -60,6 +60,8 @@
     "h0": "^1.0.0-beta.4",
     "morphdom": "^2.0.4",
     "navigo": "^2.2.0",
+    "operator.js": "^0.3.1",
+    "putz": "0.0.2",
     "string-hash": "^1.1.0"
   }
 }
