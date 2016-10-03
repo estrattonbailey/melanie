@@ -12,6 +12,11 @@
 
 @import "components/header";
 @import "components/item";
+@import "components/question";
+
+.header-spacer {
+  height: 70px;
+}
 
 .outer {
   padding-left: 2em;

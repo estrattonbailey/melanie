@@ -52,6 +52,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .absolute {
   position: absolute; }
 
+.fixed {
+  position: fixed; }
+
 .hide {
   display: none; }
 
@@ -353,7 +356,8 @@ button {
   border: 0;
   border-radius: 0;
   background-color: transparent;
-  color: inherit; }
+  color: inherit;
+  cursor: pointer; }
 
 button[disabled],
 input[disabled] {
@@ -461,6 +465,12 @@ select {
   .item__info {
     width: 66.66666%;
     padding-left: 2em; } }
+
+.question button {
+  margin-right: 0.5em; }
+
+.header-spacer {
+  height: 70px; }
 
 .outer {
   padding-left: 2em;
