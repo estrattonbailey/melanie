@@ -5,3 +5,11 @@ $c1l: #EDFAFC;
 $c2l: #FFEEED;
 $c3l: #FFF9D1;
 $cb: #002839;
+
+.c1 { color: $c1 }
+.c2 { color: $c2 }
+.c3 { color: $c3 }
+.cb { color: $cb }
+
+.ci { color: inherit }
+.bg-cc { background-color: currentColor }

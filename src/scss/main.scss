@@ -4,8 +4,16 @@
 @import "lib/containers";
 @import "lib/utilities";
 @import "lib/colors";
+@import "lib/typography";
 @import "lib/spacing";
 @import "lib/buttons";
 @import "lib/forms";
-@import "lib/typography";
 @import "lib/flexbox";
+
+@import "components/header";
+@import "components/item";
+
+.outer {
+  padding-left: 2em;
+  padding-right: 2em;
+}

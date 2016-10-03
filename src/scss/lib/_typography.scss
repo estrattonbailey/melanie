@@ -4,16 +4,17 @@
 	font-size: 80%;
   font-weight: 400;
   -webkit-font-smoothing: antialiased; 
-  text-shadow: 1px 1px 1px rgba($cb, 0.004); 
+  text-shadow: 1px 1px 1px rgba($cb, 0.004);
 
-  @media (min-width: break(s)){
+  @media (min-width: 48em){
     font-size: 100%;
   }
 }
-h1, h2, h3, h4, h5, h6, p,
+h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin: 2ex 0 .6ex;
   font-weight: 600;
+  letter-spacing: 0.1rem;
 }
 h1,
 .h1 {
@@ -49,6 +50,7 @@ p,
 .p {
 	font-size: 1.125rem;
 	line-height: 1.7;
+  font-weight: 400;
 }
 p {
   margin: 2ex 0;
@@ -63,6 +65,9 @@ hr {
 }
 b, strong {
   font-weight: 600;
+}
+.uppercase {
+  text-transform: uppercase;
 }
 a {
   color: inherit;

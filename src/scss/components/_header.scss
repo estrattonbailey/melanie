@@ -1,0 +1,18 @@
+.header {
+  text-align: right;
+  padding-top: 1.2em;
+
+  hr {
+    margin-top: 1.2em;
+  }
+
+  a {
+    color: $cb;
+    text-decoration: none;
+  }
+}
+.header__nav {
+  a {
+    margin-left: 3em;
+  }
+}
