@@ -1,3 +1,5 @@
+import putz from 'putz'
+import router from './lib/router'
 import app from './app'
 
 window.__app = {
@@ -10,4 +12,10 @@ window.__app = {
 
 window.addEventListener('DOMContentLoaded', () => {
   app()
+
+  const loader = putz(document.body, {
+    speed: 100,
+    trickle: 10
+  })
+  window.loader = loader
 })

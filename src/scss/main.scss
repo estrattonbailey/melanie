@@ -13,6 +13,7 @@
 @import "components/header";
 @import "components/item";
 @import "components/question";
+@import "components/gif";
 
 .header-spacer {
   height: 70px;
@@ -21,4 +22,20 @@
 .outer {
   padding-left: 2em;
   padding-right: 2em;
+}
+
+.putz {
+  position: fixed;
+  width: 100%;
+  left: 0; top: 0;
+  z-index: 1000;
+}
+.putz__inner {
+  position: absolute;
+  width: 100%;
+  left: 0; top: 0;
+  height: 2px;
+  background-color: #00C9FC;
+  transition: transform 200ms ease-in-out; 
+  transform: translateX(-100%);
 }

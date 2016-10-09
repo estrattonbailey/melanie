@@ -1,12 +1,5 @@
 // import operator from 'operator.js'
 import operator from '../../../../operator'
-import putz from 'putz'
-
-const loader = putz(document.body, {
-  speed: 100,
-  trickle: 20
-})
-window.loader = loader
 
 /**
  * Send page views to 
@@ -33,5 +26,7 @@ app.on('after:route', ({ route, title }) => {
 })
 
 app.on('after:transition', () => loader.end())
+
+window.app = app
 
 export default app

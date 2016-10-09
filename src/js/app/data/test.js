@@ -5,15 +5,15 @@ export default [
     answers: [
       {
         value: 'my work',
-        next: 1 
+        next: '/work' 
       },
       {
         value: 'funny jokes',
-        next: 2 
+        next: 1 
       },
       {
         value: 'GIFs',
-        next: '/gifs' 
+        next: 'https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif' 
       }
     ]
   },
