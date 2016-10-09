@@ -16,7 +16,7 @@
 @import "components/gif";
 
 .header-spacer {
-  height: 70px;
+  height: 66px;
 }
 
 .outer {
@@ -38,4 +38,25 @@
   background-color: #00C9FC;
   transition: transform 200ms ease-in-out; 
   transform: translateX(-100%);
+}
+
+.arrow {
+  display: inline-block;
+  position: relative;
+  height: 0;
+  width: 0;
+  border-top: 0.25em solid currentColor;
+  border-right: 0.25em solid currentColor;
+  border-left: 0.25em solid transparent;
+  border-bottom: 0.25em solid transparent;
+
+  &::after {
+    content:'';
+    display: block;
+    position: absolute;
+    height: 4px;
+    background-color: currentColor;
+    width: 0.4em;
+    transform: rotate(-45deg) translateX(-0.2em) translateY(-0.21em); 
+  }
 }

@@ -1,3 +1,11 @@
+.tsx { font-size: 1rem }
+.ts1 { font-size: 4.5rem }
+.ts2 { font-size: 3rem }
+.ts3 { font-size: 2rem }
+.ts4 { font-size: 1.5rem }
+.ts5 { font-size: 1rem }
+.ts6 { font-size: 0.875rem }
+
 :root {
 	color: $cb;
 	font-family: 'Work Sans', Helvetica, Arial, sans-serif;
@@ -55,6 +63,7 @@ hr {
 	border: 0;
 	height: 4px;
 	width: 100%;
+  margin: 0;
 }
 b, strong {
   font-weight: 600;
