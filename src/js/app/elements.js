@@ -1,4 +1,5 @@
 import h0 from 'h0'
+import colors from '../lib/colors'
 
 export const div = h0('div')
 export const button = h0('button')({class: 'h2 mv0 inline-block'})
@@ -11,7 +12,7 @@ export const template = ({prompt, answers}, cb) => {
       ...answers.map((a, i) => button({
         onclick: (e) => cb(a.next),
         style: {
-          color: window.__app.colors[i]
+          color: colors.colors[i]
         }
       })(a.value))
     )
