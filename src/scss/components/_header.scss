@@ -1,4 +1,4 @@
-.header {
+.nav {
   text-align: right;
   padding-top: 1.2em;
   z-index: 1000;
@@ -12,8 +12,18 @@
     color: $cb;
     text-decoration: none;
   }
+
+  .foot & {
+    padding-top: 0;
+    padding-bottom: 1.2em;
+
+    hr {
+      margin-top: 0;
+      margin-bottom: 1.2em;
+    }
+  }
 }
-.header__nav {
+.nav__inner {
   a {
     margin-left: 3em;
   }
