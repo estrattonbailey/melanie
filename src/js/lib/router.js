@@ -18,14 +18,11 @@ const app = operator({
   root: '#root'
 })
 
-app.on('before:route', () => {
-})
-
 app.on('after:route', ({ route, title }) => {
   gaTrackPageView(route, title)
 })
 
-app.on('after:transition', () => loader.end())
+app.on('after:transition', () => loader && loader.end())
 
 window.app = app
 

@@ -10,12 +10,17 @@ window.__app = {
   ]
 }
 
+const returnColor = () => __app.colors[Math.round(Math.random() * (2 - 0) + 0)]
+
+const loader = window.loader = putz(document.body, {
+  speed: 100,
+  trickle: 10
+})
+
 window.addEventListener('DOMContentLoaded', () => {
   app()
 
-  const loader = putz(document.body, {
-    speed: 100,
-    trickle: 10
+  router.on('after:route', ({ route }) => {
+    document.body.style.color = returnColor()
   })
-  window.loader = loader
 })

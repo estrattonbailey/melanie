@@ -14,7 +14,7 @@ const render = (next) => {
   let questionRoot = document.getElementById('questionRoot')
 
   let el = template(next, update)
-  questionRoot.appendChild(el)
+  questionRoot && questionRoot.appendChild(el)
   return el 
 }
 
@@ -25,7 +25,7 @@ const update = (next) => {
   let questionRoot = document.getElementById('questionRoot')
 
   let isGIF = /giphy/.test(next)
-  if (isGIF) return giffer.open(next)
+  if (isGIF) return giffer().open(next)
 
   let isPath = /^\//.test(next)
   if (isPath) return router.go(next)
