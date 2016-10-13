@@ -20,6 +20,18 @@
   height: 66px;
 }
 
+.clear {
+  &::before,
+  &::after {
+    content:' ';
+    display: table;
+  }
+
+  &::after {
+    clear: both;
+  }
+}
+
 .outer {
   padding-left: 2em;
   padding-right: 2em;
@@ -72,5 +84,34 @@
   svg {
     width: 100%;
     height: auto;
+  }
+}
+
+.work__image {
+  margin-bottom: 1em;
+  overflow: hidden;
+
+  @media (min-width: 48em){
+    margin-bottom: 2em;
+
+    &:nth-of-type(odd){
+      float: left;
+      max-width: 60%;
+      max-height: 60%;
+    }
+    &:nth-of-type(even){
+      float: right;
+      max-width: 30%;
+      max-height: 30%;
+    }
+
+    &:nth-of-type(3n+3){
+      margin-left: 20%;
+    }
+  }
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
   }
 }

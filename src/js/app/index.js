@@ -1,5 +1,5 @@
 import router from '../lib/router'
-import questions from './data/test'
+import questions from './data/index.js'
 import storage from './data'
 import giffer from './giffer'
 import { template } from './elements'

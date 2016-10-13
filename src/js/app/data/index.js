@@ -14,16 +14,15 @@ export default [
       {
         value: `it's your mom`,
         next: 4
-      }
-        {
+      },
+      {
         value: `funny jokes`,
         next: 5
-      },   
+      }
     ]
   },
-    
-    
-    {
+
+  {
     id: 2,
     prompt: `i'm melanie – a graphic designer working in experiential marketing & proud iowan trying to eat ALL the BLTs`,
     answers: [
@@ -37,9 +36,8 @@ export default [
       },
     ]
   },
-        
-        
-    {
+
+  {
     id: 3,
     prompt: `rad! can i show you some projects i've worked on?`,
     answers: [
@@ -51,16 +49,14 @@ export default [
         value: `nah, tell me about you`,
         next: '/about'
       },
-        {
+      {
         value: `i'll email you instead`,
         next: '/contact'
       },
     ]
   },
-    
-    
-    
-    {
+
+  {
     id: 4,
     prompt: `hi mom! i love you!`,
     answers: [
@@ -74,9 +70,8 @@ export default [
       },
     ]
   },
-        
-        
-    {
+
+  {
     id: 5,
     prompt: `what's funnier than a rhetorical question?`,
     answers: [
@@ -90,9 +85,8 @@ export default [
       },
     ]
   },
-    
-    
- {
+
+  {
     id: 6,
     prompt: `experiential is this cool niche type of marketing, ya know?`,
     answers: [
@@ -106,9 +100,8 @@ export default [
       },
     ]
   },
-        
-        
-    {
+
+  {
     id: 7,
     prompt: `take a wild guess...`,
     answers: [
@@ -120,15 +113,14 @@ export default [
         value: `blueberry lemon tart`,
         next: 'https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif'
       },
-         {
+      {
         value: `bacon lettuce tomato`,
         next: 'https://media.giphy.com/media/fqzxcmlY7opOg/giphy.gif'
       },
     ]
   },
-    
-    
-    {
+
+  {
     id: 8,
     prompt: `so... can i ship laundry home to iowa?`,
     answers: [
@@ -140,12 +132,10 @@ export default [
         value: `yeah, still not your mom...`,
         next: 12
       },
-       
     ]
   },
-        
-        
-    {
+
+  {
     id: 9,
     prompt: `clicking for fun, huh? good luck with this one.`,
     answers: [
@@ -157,12 +147,10 @@ export default [
         value: `red pill`,
         next: 'https://media.giphy.com/media/UjujGY3mA3Jle/giphy.gif'
       },
-       
     ]
   },
-    
-    
-    {
+
+  {
     id: 10,
     prompt: `pancakes or waffles?`,
     answers: [
@@ -170,11 +158,9 @@ export default [
         value: `french toast`,
         next: 'https://media.giphy.com/media/14nb6TlIRlaN1u/giphy.gif'
       },
-       
     ]
   },
-    
-    
+
   {
     id: 11,
     prompt: `i like experiential because it's just super cool, okay?`,
@@ -187,12 +173,10 @@ export default [
         value: `i have questions! can i email you?`,
         next: '/contact'
       },
-       
     ]
   },  
-        
-        
-    {
+
+  {
     id: 12,
     prompt: `taking this a little far don't you think?`,
     answers: [
@@ -204,12 +188,10 @@ export default [
         value: `must click ALL buttons`,
         next: 13
       },
-       
     ]
   },
-    
-    
-    {
+
+  {
     id: 13,
     prompt: `yeah?`,
     answers: [
@@ -217,12 +199,10 @@ export default [
         value: `clicking this may harm a kitten`,
         next: 'https://media.giphy.com/media/IgghkXWkdnEEo/giphy.gif'
       },
-       
     ]
   },
-    
-    
-    {
+
+  {
     id: 14,
     prompt: `of course I love my own work, but these projects deserve some serious props`,
     answers: [
@@ -234,12 +214,11 @@ export default [
         value: `project 2`,
         next: 'https://twitter.com'
       },
-        
-     {
+
+      {
         value: `project 3`,
         next: 'https://twitter.com'
       },
-       
     ]
   },
 ]

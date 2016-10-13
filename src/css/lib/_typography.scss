@@ -9,14 +9,9 @@
 :root {
 	color: $cb;
 	font-family: 'Work Sans', Helvetica, Arial, sans-serif;
-	font-size: 80%;
+	font-size: 100%;
   font-weight: 400;
   -webkit-font-smoothing: antialiased; 
-  // text-shadow: 1px 1px 1px rgba($cb, 0.004);
-
-  @media (min-width: 48em){
-    font-size: 100%;
-  }
 }
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -27,28 +22,52 @@ h1, h2, h3, h4, h5, h6 {
   margin: 2ex 0 .6ex;
 }
 h1, .h1 { 
-  font-size: 4.5rem;
+  font-size: 2.5rem;
   line-height: 1.1;
+
+  @media (min-width: 48em){
+    font-size: 4.5rem;
+  }
 }
 h2, .h2 { 
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.3;
+
+  @media (min-width: 48em){
+    font-size: 3rem;
+  }
 }
 h3, .h3 { 
-  font-size: 2rem;
-  line-height: 1.5;
-}
-h4, .h4 { 
   font-size: 1.5rem;
   line-height: 1.5;
+
+  @media (min-width: 48em){
+    font-size: 2rem;
+  }
+}
+h4, .h4 { 
+  font-size: 1rem;
+  line-height: 1.5;
+
+  @media (min-width: 48em){
+    font-size: 1.5rem;
+  }
 }
 h5, .h5 { 
-  font-size: 1rem;
-  line-height: 1.6;
-}
-h6, .h6 { 
   font-size: 0.875rem;
   line-height: 1.6;
+
+  @media (min-width: 48em){
+    font-size: 1rem;
+  }
+}
+h6, .h6 { 
+  font-size: 0.6rem;
+  line-height: 1.6;
+
+  @media (min-width: 48em){
+    font-size: 0.875rem;
+  }
 }
 p, .p { 
   font-size: 1rem;
@@ -73,4 +92,7 @@ b, strong {
 }
 a {
   color: inherit;
+}
+.light {
+  font-weight: 400;
 }

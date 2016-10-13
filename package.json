@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parallelshell 'npm run js:dev' 'npm run css:dev'",
-    "js:build": "browserify src/js/index.js -p [minifyify --no-map] > index.js",
-    "js:dev": "watchify src/js/index.js -v -d -o index.js",
-    "css:build": "node-sass src/scss/main.scss | postcss -u autoprefixer > style.css",
+    "start": "parallelshell 'npm run files:dev' 'npm run js:dev' 'npm run css:dev'",
+    "files:render": "node render.js",
+    "files:dev": "onchange 'src/markup/**/*.js' -- npm run files:render",
+    "js:build": "browserify src/js/index.js -p [minifyify --no-map] > site/index.js",
+    "js:dev": "watchify src/js/index.js -v -d -o site/index.js",
+    "css:build": "node-sass src/scss/main.scss | postcss -u autoprefixer > site/style.css",
     "css:dev": "onchange 'src/**/*.scss' -- npm run css:build"
   },
   "browserify": {
@@ -18,15 +20,7 @@
       "js"
     ],
     "transform": [
-      [
-        "babelify",
-        {
-          "presets": [
-            "es2015",
-            "react"
-          ]
-        }
-      ]
+      "babelify"
     ]
   },
   "browserify-shim": {},
@@ -55,14 +49,12 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
-    "closest": "0.0.1",
-    "delegate": "^3.0.1",
+    "fab.js": "0.0.4",
     "h0": "^1.0.0-beta.4",
-    "morphdom": "^2.0.4",
-    "navigo": "^2.2.0",
-    "operator.js": "^0.3.2",
+    "layzr.js": "^2.2.1",
+    "operator.js": "^1.0.2",
     "putz": "0.0.2",
-    "string-hash": "^1.1.0",
+    "react": "^15.3.2",
     "tarry.js": "^1.0.0"
   }
 }
