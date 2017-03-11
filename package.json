@@ -7,7 +7,7 @@
     "start": "parallelshell 'npm run files:dev' 'npm run js:dev' 'npm run css:dev'",
     "files:render": "node render.js",
     "files:dev": "onchange 'src/markup/**/*.js' -- npm run files:render",
-    "js:build": "browserify src/js/index.js -p [minifyify --no-map] > site/index.js",
+    "js:build": "browserify src/js/index.js --debug -p [minifyify --map index.js.map --output index.js.map] > site/index.js",
     "js:dev": "watchify src/js/index.js -v -d -o site/index.js",
     "css:build": "node-sass src/scss/main.scss | postcss -u autoprefixer > site/style.css",
     "css:dev": "onchange 'src/**/*.scss' -- npm run css:build"
@@ -35,26 +35,28 @@
   },
   "homepage": "",
   "devDependencies": {
-    "autoprefixer": "^6.3.1",
-    "babel-preset-es2015": "^6.9.0",
-    "babel-preset-react": "^6.5.0",
-    "babelify": "^7.3.0",
-    "browserify": "^13.0.1",
-    "exorcist": "^0.4.0",
-    "minifyify": "^7.3.3",
-    "node-sass": "^3.7.0",
-    "onchange": "^2.4.0",
-    "parallelshell": "^2.0.0",
-    "postcss-cli": "^2.5.2",
-    "watchify": "^3.7.0"
+    "autoprefixer": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babelify": "*",
+    "browserify": "*",
+    "exorcist": "*",
+    "fab.js": "*",
+    "minifyify": "*",
+    "node-sass": "*",
+    "onchange": "*",
+    "parallelshell": "*",
+    "postcss-cli": "*",
+    "watchify": "*"
   },
   "dependencies": {
     "fab.js": "0.0.4",
     "h0": "^1.0.0-beta.4",
     "layzr.js": "^2.2.1",
+    "loop.js": "^0.2.2",
     "operator.js": "^1.0.2",
     "putz": "0.0.2",
     "react": "^15.3.2",
-    "tarry.js": "^1.0.0"
+    "tarry.js": "^0.4.1"
   }
 }

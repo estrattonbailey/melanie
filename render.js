@@ -4,7 +4,7 @@ const data = require('./data.js')
 
 const dir = process.cwd()
 
-fab.dest('./site')
+fab.output('./site')
 
 fab.data(data)
 
@@ -27,6 +27,4 @@ data.projects.forEach(p => {
   })
 })
 
-fab.watch('./src/js/**/*.js')
-
-fab.renderPages()
+fab.render()

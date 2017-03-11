@@ -41,8 +41,8 @@ const update = (next) => {
  * Wait until new DOM is present before
  * trying to render to it
  */
-router.on('after:route', ({route}) => {
-  if (/(^\/|\/#[0-9]|#[0-9])/.test(route)){
+router.on('route:after', ({ route }) => {
+  if (route === '' || /(^\/|\/#[0-9]|#[0-9])/.test(route)){
     update(data.getActive())
   }
 })

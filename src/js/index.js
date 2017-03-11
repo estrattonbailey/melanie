@@ -11,7 +11,7 @@ const loader = window.loader = putz(document.body, {
 window.addEventListener('DOMContentLoaded', () => {
   app()
 
-  router.on('after:route', ({ route }) => {
+  router.on('route:after', ({ route }) => {
     colors.update()
   })
 

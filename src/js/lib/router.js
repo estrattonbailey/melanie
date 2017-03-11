@@ -1,6 +1,5 @@
 import layzr from 'layzr.js'
 import operator from 'operator.js'
-// import operator from '../../../../../../../operator'
 
 /**
  * Send page views to 
@@ -23,12 +22,12 @@ const app = operator({
   root: '#root'
 })
 
-app.on('after:route', ({ route, title }) => {
+app.on('route:after', ({ route, title }) => {
   gaTrackPageView(route, title)
   images.update().check()
 })
 
-app.on('after:transition', () => loader && loader.end())
+app.on('transition:after', () => loader && loader.end())
 
 window.app = app
 
