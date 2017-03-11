@@ -10,21 +10,23 @@ fab.data(data)
 
 fab.pages([
   {
-    template: require('./src/markup/templates/Root.js'), 
+    template: './src/markup/templates/Root.js',
     route: '/'
   },
   {
-    template: require('./src/markup/templates/Work.js'), 
+    template: './src/markup/templates/Work.js',
     route: 'work'
   }
 ])
 
 data.projects.forEach(p => {
   fab.pages({
-    template: require('./src/markup/templates/Project.js'),
+    template: './src/markup/templates/Project.js',
     route: p.url,
     locals: p
   })
 })
+
+fab.watch('./src/js/**/*.js')
 
 fab.renderPages()
