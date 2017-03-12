@@ -122,3 +122,10 @@
     max-height: 100%;
   }
 }
+.work__image__caption {
+  border: 4px solid currentColor;
+
+  p {
+    margin: 0;
+  }
+}

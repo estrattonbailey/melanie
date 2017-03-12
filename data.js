@@ -26,7 +26,7 @@ Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show,
         `DEWggro-Crag-Nickelodeon-8.jpg`,
         [
           `DEWggro-Crag-Nickelodeon-7.jpg`,
-          `[@realjohnnybananas](https://www.instagram.com/p/BGsgWnOtFBr/`
+          `[@realjohnnybananas](https://www.instagram.com/p/BGsgWnOtFBr/)`
         ],
         `DEWggro-Crag-Nickelodeon-6.jpg`,
         [
@@ -40,7 +40,7 @@ Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show,
         `DEWggro-Crag-Nickelodeon-3.jpg`,
         `DEWggro-Crag-Nickelodeon-2.jpg`,
         [
-          `DEWggro-Crag-Nickelodeon-1.jpg`
+          `DEWggro-Crag-Nickelodeon-1.jpg`,
           `[@realjohnnybananas](https://www.instagram.com/p/BGu9H78NFLN/)`
         ]
       ]
