@@ -13,9 +13,11 @@ export default ({ title, subtitle, description, projectFor }) => (
           <Markdown source={description}/>
         </div>
       )}
-      <div className="pt05 cb">
-        <p className="ts5"><strong>For:</strong> <em>{projectFor}</em></p>
-      </div>
+      {projectFor &&  (
+        <div className="pt05 cb">
+          <p className="ts5"><strong>For:</strong> <em>{projectFor}</em></p>
+        </div>
+      )}
     </div>
   </div>
 )

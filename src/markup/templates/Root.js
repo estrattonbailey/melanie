@@ -3,14 +3,18 @@ import React from 'react'
 import Main from '../components/Main.js'
 
 export default props => (
-<Main {...props}>
+<Main {...props} nospace>
   <div className="outer">
-    <section className="question-outer flex flex-items-center flex-justify-center pv1 mv05 ts1">
-      <div className="block tsx">
-        <div className="container--s w1 mha">
-          <div id="questionRoot" className="prompt"></div>
+    <section className="question-outer flex flex-items-center flex-justify-center ts1">
+        <div className="block tsx">
+          <div className="container--s w1 mha">
+            <div className="header-spacer"/>
+            <div className="pt2">
+              <div id="questionRoot" className="prompt"></div>
+            </div>
+            <div className="header-spacer"/>
+          </div>
         </div>
-      </div>
     </section>
   </div>
 

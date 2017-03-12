@@ -10,7 +10,7 @@ export default props => (
       <Header {...props}/>
 
       <main id='root' classNameName='outer'>
-        <div className="header-spacer"></div>
+        {!('nospace' in props) && <div className="header-spacer"/>}
         {props.children}
       </main>
 
