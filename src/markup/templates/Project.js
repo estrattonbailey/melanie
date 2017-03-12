@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Main from '../components/Main.js'
+import Foot from '../components/Foot.js'
 import ProjectImage from '../components/ProjectImage.js'
 import PageHeader from '../components/PageHeader.js'
 
@@ -17,5 +18,7 @@ export default props => (
         <ProjectImage key={i} image={img}/>
       ))}
     </div>
+
+    <Foot {...props}/>
   </Main>
 )

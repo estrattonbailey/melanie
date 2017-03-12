@@ -9,7 +9,7 @@ export default ({ title, subtitle, description, projectFor }) => (
         <Markdown source={subtitle}/>
       </div>
       {description &&  (
-        <div className="page__description cb p">
+        <div className="page__description cb p theme">
           <Markdown source={description}/>
         </div>
       )}

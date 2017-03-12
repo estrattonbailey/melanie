@@ -42,6 +42,9 @@ const update = () => {
     ::selection {
       background-color: ${color};
     }
+    .theme a {
+      color: ${color}
+    }
   `
 }
 
