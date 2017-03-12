@@ -1,12 +1,40 @@
 module.exports = {
   pages: {
     work: {
-      title: `Work, work, work, work, work.`
+      title: `Workin' it.`
     },
     about: {
-      title: 'A Goddamn Lady',
-      subtitle: `How happy the blameless vestal's lot, the world forgetting by the world forgot.`,
-      description: `How happy the blameless vestal's lot, the world forgetting by the world forgot.`,
+      title: 'Call me Melanie. Or Mel.',
+      subtitle: `It's cute if you asked.`,
+      description:`
+Because about pages are awkward and my age incites the classic, “you haven’t figured yourself out yet,” I vow to keep this short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
+
+I [tweet sometimes](https://twitter.com/agoddamnlady), but, I recently got a cat, so… Well, you’ve been warned.
+
+I’m currently working in experiential marketing with [The Michael Alan Group](http://michael-alan.com/). Should you fancy a more formal resume, [email me](http://agoddamnlady.com/contact) (because I didn't finish it before launching this site).
+`,
+      images: [
+        [
+          `Melanie.jpg`,
+          `This is me.`
+        ],
+        [
+          `Oscar.jpg`,
+          `This is my cat.`
+        ]
+      ]
+    },
+    contact: {
+      title: `Send me the goods.`,
+      subtitle: `The good gifs, that is.`,
+      description: `
+Having trouble? Here are some ideas:
+- 10 Reasons to Open This Email (Open to find out!)
+- FREE FREE FREE JELLY BEANS
+- Is your inner monologue voiced by James Earl Jones? We thought so.
+- Never gonna give you up, never gonna let you down, never gonna run around and desert you.
+`
+      ,
     }
   },
   projects: [
