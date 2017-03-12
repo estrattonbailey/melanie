@@ -4,7 +4,8 @@ export default ({ title, caption, url, image }) => (
   <article className="item relative flex flex-wrap pv05 ts2">
     <div className="item__image relative mb1 tsx">
       <a href={url}>
-        <img className="w1 absolute fit-x" src={image}/>
+        <img className="w1 absolute fit-x"
+          src={/images/.test(image) ? image : `/images/${image}`}/>
       </a>
     </div>
     <div className="item__info mb1 tsx">
