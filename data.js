@@ -24,13 +24,25 @@ Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show,
       images: [
         `DEWggro-Crag-Nickelodeon-9.jpg`,
         `DEWggro-Crag-Nickelodeon-8.jpg`,
-        `DEWggro-Crag-Nickelodeon-7.jpg`,
+        [
+          `DEWggro-Crag-Nickelodeon-7.jpg`,
+          `[@realjohnnybananas](https://www.instagram.com/p/BGsgWnOtFBr/`
+        ],
         `DEWggro-Crag-Nickelodeon-6.jpg`,
-        `DEWggro-Crag-Nickelodeon-5.jpg`,
-        `DEWggro-Crag-Nickelodeon-4.jpg`,
+        [
+          `DEWggro-Crag-Nickelodeon-5.jpg`,
+          `[@kactusphotography](https://www.instagram.com/p/BGwz0UwPVzu/)`
+        ],
+        [
+          `DEWggro-Crag-Nickelodeon-4.jpg`,
+          `[@thesarawilliams](https://www.instagram.com/p/BGu1GlnALQx/)`
+        ],
         `DEWggro-Crag-Nickelodeon-3.jpg`,
         `DEWggro-Crag-Nickelodeon-2.jpg`,
-        `DEWggro-Crag-Nickelodeon-1.jpg`
+        [
+          `DEWggro-Crag-Nickelodeon-1.jpg`
+          `[@realjohnnybananas](https://www.instagram.com/p/BGu9H78NFLN/)`
+        ]
       ]
     },
     {
@@ -101,7 +113,15 @@ When New Balance was ready to launch a new line of stylishly casual kicks, we en
         `New-Balance-3.jpg`,
         `New-Balance-4.jpg`,
         `New-Balance-5.jpg`,
-        `New-Balance-6.jpg`
+        `New-Balance-6.jpg`,
+        [
+          `New-Balance-7.jpg`,
+          `[@the_modman](https://www.instagram.com/p/5iS5WySRFL/)`
+        ],
+        [
+          `New-Balance-8.jpg`,
+          `[@brendanfallis](https://www.instagram.com/p/5dEh82pej7/)`
+        ]
       ]
     },
     {
@@ -125,10 +145,22 @@ Almay stopped in 11 major cities while touring The American Look on their custom
         `Almay-Experience-7.jpg`,
         `Almay-Experience-8.jpg`,
         `Almay-Experience-9.jpg`,
-        `Almay-Experience-10.jpg`,
-        `Almay-Experience-11.jpg`,
-        `Almay-Experience-12.jpg`,
-        `Almay-Experience-13.jpg`
+        [
+          `Almay-Experience-10.jpg`,
+          `[@gracie_gordon](https://www.instagram.com/p/2tbNwqDqts/)`
+        ],
+        [
+          `Almay-Experience-11.jpg`,
+          `[@magmarketing](https://www.instagram.com/p/7BrUSDud_j/)`
+        ],
+        [
+          `Almay-Experience-12.jpg`,
+          `[@thejavamama](https://www.instagram.com/p/8QdIBarAZH/)`
+        ],
+        [
+          `Almay-Experience-13.jpg`,
+          `[@rebekahveen](https://www.instagram.com/p/5C3ACML6A4/)`
+        ]
       ]
     },
     {
