@@ -4,8 +4,9 @@ module.exports = {
       title: `Look on my works, ye Mighty, and despair!`
     },
     about: {
-      title: '',
-      description: '',
+      title: 'A Goddamn Lady',
+      subtitle: `How happy the blameless vestal's lot, the world forgetting by the world forgot.`,
+      description: `How happy the blameless vestal's lot, the world forgetting by the world forgot.`,
     }
   },
   projects: [

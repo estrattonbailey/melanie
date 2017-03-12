@@ -16,6 +16,10 @@ fab.pages([
   {
     template: './src/markup/templates/Work.js',
     route: 'work'
+  },
+  {
+    template: './src/markup/templates/About.js',
+    route: 'about'
   }
 ])
 

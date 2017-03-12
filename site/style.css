@@ -131,7 +131,7 @@ table {
   -webkit-font-smoothing: antialiased; }
 
 h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
+.h1, .h2, .h3, .page__subtitle p, .h4, .h5, .h6 {
   font-weight: 600;
   letter-spacing: 0.1rem; }
 
@@ -152,11 +152,11 @@ h2, .h2 {
     h2, .h2 {
       font-size: 3rem; } }
 
-h3, .h3 {
+h3, .h3, .page__subtitle p {
   font-size: 1.5rem;
   line-height: 1.5; }
   @media (min-width: 48em) {
-    h3, .h3 {
+    h3, .h3, .page__subtitle p {
       font-size: 2rem; } }
 
 h4, .h4 {
@@ -376,13 +376,11 @@ select {
 .flex-items-start {
   -webkit-box-align: start;
       -ms-flex-align: start;
-              -ms-grid-row-align: flex-start;
           align-items: flex-start; }
 
 .flex-items-center {
   -webkit-box-align: center;
       -ms-flex-align: center;
-              -ms-grid-row-align: center;
           align-items: center; }
 
 .flex-justify-start {
@@ -555,4 +553,3 @@ select {
   .work__image img {
     max-width: 100%;
     max-height: 100%; }
-

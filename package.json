@@ -9,7 +9,7 @@
     "files:dev": "onchange 'src/markup/**/*.js' -- npm run files:render",
     "js:build": "browserify src/js/index.js --debug -p [minifyify --map index.js.map --output index.js.map] > site/index.js",
     "js:dev": "watchify src/js/index.js -v -d -o site/index.js",
-    "css:build": "node-sass src/scss/main.scss | postcss -u autoprefixer > site/style.css",
+    "css:build": "node-sass src/css/main.scss | postcss -u autoprefixer > site/style.css",
     "css:dev": "onchange 'src/**/*.scss' -- npm run css:build"
   },
   "browserify": {
@@ -43,10 +43,12 @@
     "exorcist": "*",
     "fab.js": "*",
     "minifyify": "*",
-    "node-sass": "*",
+    "node-sass": "^4.5.0",
     "onchange": "*",
     "parallelshell": "*",
     "postcss-cli": "*",
+    "react": "^15.3.2",
+    "react-markdown": "^2.4.5",
     "watchify": "*"
   },
   "dependencies": {
@@ -56,7 +58,6 @@
     "loop.js": "^0.2.2",
     "operator.js": "^1.0.2",
     "putz": "0.0.2",
-    "react": "^15.3.2",
     "tarry.js": "^0.4.1"
   }
 }
