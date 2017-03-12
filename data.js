@@ -2,6 +2,10 @@ module.exports = {
   pages: {
     work: {
       title: `Look on my works, ye Mighty, and despair!`
+    },
+    about: {
+      title: '',
+      description: '',
     }
   },
   projects: [
