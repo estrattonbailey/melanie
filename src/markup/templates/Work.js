@@ -17,7 +17,7 @@ export default props => (
 
         <PageTitle>{props.pages.work.title}</PageTitle>
 
-        <SectionDivider>experimental</SectionDivider>
+        <SectionDivider>experiential</SectionDivider>
 
         <div className="pv05 ts2">
 
