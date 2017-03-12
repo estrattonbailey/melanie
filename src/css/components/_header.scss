@@ -1,16 +1,33 @@
 .nav {
-  text-align: right;
   padding-top: 1.2em;
   z-index: 1000;
   background-color: white;
+
+  @media (min-width: 48em){
+    text-align: right;
+
+    .nav__inner {
+      a {
+        margin-right: 0;
+        margin-left: 3em;
+      }
+    }
+  }
 
   hr {
     margin-top: 1.2em;
   }
 
-  a {
+  .nav__logo {
     color: $cb;
     text-decoration: none;
+    width: 100%;
+    margin-bottom: 0.5em;
+
+    @media (min-width: 48em){
+      margin-bottom: 0;
+      width: auto;
+    }
   }
 
   .foot & {
@@ -22,9 +39,10 @@
       margin-bottom: 1.2em;
     }
   }
-}
-.nav__inner {
-  a {
-    margin-left: 3em;
+
+  .nav__inner {
+    a {
+      margin-right: 2em;
+    }
   }
 }

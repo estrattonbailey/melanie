@@ -34,8 +34,13 @@
 }
 
 .outer {
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+
+  @media (min-width: 48em){
+    padding-left: 2em;
+    padding-right: 2em;
+  }
 }
 
 .putz {

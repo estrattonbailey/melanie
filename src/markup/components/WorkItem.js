@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default ({ title, caption, url, image }) => (
-  <article className="item relative flex flex-wrap pv05 ts2">
+  <article className="item relative flex flex-wrap mv05 ts2">
     <div className="item__image relative mb1 tsx">
       <a href={url}>
         <img className="w1 absolute fit-x"
