@@ -43,6 +43,15 @@
   .nav__inner {
     a {
       margin-right: 2em;
+      text-decoration: none;
+
+      span {
+        color: $cb;
+      }
+
+      &.is-active {
+        background-color: currentColor;
+      }
     }
   }
 }
