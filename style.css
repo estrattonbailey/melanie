@@ -181,7 +181,7 @@ h6, .h6 {
       font-size: 0.875rem; } }
 
 p, .p {
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.7; }
 
 p {
@@ -207,6 +207,9 @@ a {
 
 .light {
   font-weight: 400; }
+
+em {
+  font-style: italic; }
 
 .mla, .mha {
   margin-left: auto; }
