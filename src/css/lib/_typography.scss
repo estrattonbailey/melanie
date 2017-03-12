@@ -70,7 +70,7 @@ h6, .h6 {
   }
 }
 p, .p { 
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.7;
 }
 p { margin: 2ex 0 }
@@ -95,4 +95,7 @@ a {
 }
 .light {
   font-weight: 400;
+}
+em {
+  font-style: italic;
 }

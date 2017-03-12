@@ -9,7 +9,8 @@ export default props => (
     <PageHeader
       title={props.locals.title}
       subtitle={props.locals.content.subtitle}
-      description={props.locals.content.subsubtitle}/>
+      description={props.locals.content.subsubtitle}
+      projectFor={props.locals.content.projectFor}/>
 
     <div className="pv05 ts2 clear">
       {props.locals.images.map((img, i) => (

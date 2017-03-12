@@ -13,7 +13,7 @@ export default ({ title, caption, url, image }) => (
         <h3 className="mt0 cb">{title}</h3>
       </a>
       <p className="mt0 cb">{caption}</p>
-      <a href={url} className="h5 flex flex-items-center">
+      <a href={url} className="h5">
         <span className="cb mr05">view</span>
         <i className="arrow ci"></i>
       </a>

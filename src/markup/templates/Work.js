@@ -32,13 +32,10 @@ export default props => (
 
         </div>
 
-        <SectionDivider>selected clients</SectionDivider>
+        <SectionDivider>clients</SectionDivider>
 
         <div className="pv1 ts2">
-          <div className="flex flex-wrap flex-justify-between flex-items-center">
-            <div className="client-logo ph05">
-            </div>
-          </div>
+          <img className="block w1" src="/images/clients.jpg"/>
         </div>
 
         <SectionDivider>personal favs</SectionDivider>

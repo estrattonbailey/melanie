@@ -47,7 +47,7 @@ Having trouble? Here are some ideas:
         subsubtitle: `
 Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show, GUTS? Mountain Dew snagged the idea to raise awareness and cast votes for their DEWcision 2016 campaign, and the DEWggro Crag Powered by The Splat was born. Of course, such a marvel couldn’t merely live on its own, and an entire festival surrounded the setup, complete with dueling performers, soda sampling, giveaways, and more.
 `,
-        for: `The Michael Alan Group, in partnership with Viacom Special Events & Blue Revolver`
+        projectFor: `The Michael Alan Group, in partnership with Viacom Special Events & Blue Revolver`
       },
       images: [
         `DEWggro-Crag-Nickelodeon-9.jpg`,
@@ -82,7 +82,7 @@ Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show,
         subsubtitle: `
 John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To drive tune-in to this GILF, a pop-up barbershop was produced at The Grove in Los Angeles. With a custom design that felt fresh and modern and far-from-aged, we encouraged everyone to hop in to receive their own Grandfathered look.
 `,
-        for: `The Michael Alan Group`
+        projectFor: `The Michael Alan Group`
       },
       images: [
         `Fox-Grandfathered-GILF-2.jpg`,
@@ -106,7 +106,7 @@ John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To
         subsubtitle: `
 After an amazing year at the Rio Olympics, Team USA deserved a big celebration, and that’s precisely what the United States Olympic Committee made happen. The events of the evening included a red carpet procession, an Olympic ring ceremony, an awards show (later aired on NBC Sports Network), and a chic after party. Layout, stage design, branding, and decor were major pieces I helped tackle for this project.
 `,
-        for: `The Michael Alan Group`
+        projectFor: `The Michael Alan Group`
       },
       images: [
         `USOC-2016-Team-USA-Awards-13.jpg`,
@@ -133,7 +133,7 @@ After an amazing year at the Rio Olympics, Team USA deserved a big celebration, 
         subsubtitle: `
 When New Balance was ready to launch a new line of stylishly casual kicks, we ensured the press event matched the product’s allure. Instead of an overtly flashy soiree, we set the mood with a chic gallery event, complete with a floating shoe installation, live performance art, specialty cocktails, and tunes from DJ Brendan Fallis.
 `,
-        for: `The Michael Alan Group`
+        projectFor: `The Michael Alan Group`
       },
       images: [
         `New-Balance-1.jpg`,
@@ -161,7 +161,7 @@ When New Balance was ready to launch a new line of stylishly casual kicks, we en
         subsubtitle: `
 Almay stopped in 11 major cities while touring The American Look on their custom RV, offering free mini makeovers to attendees at State Fairs and Festivals across the country. Beyond the beauty, consumers were also invited to win Almay products and swag, or saunter over to a kissing booth to smooch their sweetheart. The activation included a partnership with the USO to raise money for our military and veterans.
 `,
-        for: `The Michael Alan Group`
+        projectFor: `The Michael Alan Group`
       },
       images: [
         `Almay-Experience-1.jpg`,
@@ -200,7 +200,7 @@ Almay stopped in 11 major cities while touring The American Look on their custom
         subsubtitle: `
 Seeking to improve SEO performance and social influence, The Michael Alan Group set out to build a blog. I managed these efforts from the beginning; crafting a content strategy, working with freelance writers, composing my own pieces, researching topics, sourcing visual material, and building each article online. While the initial going was slow and steady, we have built the beast into an efficient machine and continue to make progress toward the initial goals.
 `,
-        for: `The Michael Alan Group`
+        projectFor: `The Michael Alan Group`
       },
       images: [
         `image.jpg`,

@@ -31,4 +31,12 @@ data.projects.forEach(p => {
   })
 })
 
+data.favs.forEach(p => {
+  fab.pages({
+    template: './src/markup/templates/Project.js',
+    route: p.url,
+    locals: p
+  })
+})
+
 fab.render()
