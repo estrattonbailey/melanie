@@ -96,9 +96,9 @@
 .work__image {
   margin-bottom: 0.5em;
   overflow: hidden;
+  margin-bottom: 1em;
 
   @media (min-width: 48em){
-    margin-bottom: 1em;
 
     &:nth-of-type(even){
       float: left;
@@ -109,11 +109,24 @@
       float: right;
       max-width: calc(50% - 0.5em);
       max-height: calc(50% - 0.5em);
+
+      &:last-of-type {
+        float: right;
+        max-width: calc(50% - 0.5em);
+        max-height: calc(50% - 0.5em);
+        margin-left: 0;
+      }
     }
     &:nth-of-type(3n+1){
       float: left;
       max-width: 75%;
       margin-left: 12.5%;
+    }
+    &:last-of-type {
+      float: left;
+      max-width: 75%;
+      margin-left: 12.5%;
+      max-height: 100%;
     }
   }
 
