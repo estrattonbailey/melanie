@@ -90,11 +90,11 @@ John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To
         `Fox-Grandfathered-GILF-1.jpg`,
         `Fox-Grandfathered-GILF-3.jpg`,
         `Fox-Grandfathered-GILF-9.jpg`,
-        `Fox-Grandfathered-GILF-5.jpg`,
+        `Fox-Grandfathered-GILF-4.jpg`,
         `Fox-Grandfathered-GILF-6.jpg`,
         `Fox-Grandfathered-GILF-7.jpg`,
         `Fox-Grandfathered-GILF-8.jpg`,
-        `Fox-Grandfathered-GILF-4.jpg`
+        `Fox-Grandfathered-GILF-5.jpg`
       ]
     },
     {
@@ -113,23 +113,21 @@ After an amazing year at the Rio Olympics, Team USA deserved a big celebration, 
         `USOC-2016-Team-USA-Awards-4.jpg`,
         `USOC-2016-Team-USA-Awards-1.jpg`,
         `USOC-2016-Team-USA-Awards-2.jpg`,
-        `USOC-2016-Team-USA-Awards-3.jpg`,
-        `USOC-2016-Team-USA-Awards-5.jpg`,
+        `USOC-2016-Team-USA-Awards-9.jpg`,
         `USOC-2016-Team-USA-Awards-6.jpg`,
+        `USOC-2016-Team-USA-Awards-5.jpg`,
         `USOC-2016-Team-USA-Awards-7.jpg`,
         `USOC-2016-Team-USA-Awards-8.jpg`,
-        `USOC-2016-Team-USA-Awards-9.jpg`,
-        `USOC-2016-Team-USA-Awards-11.jpg`,
-        `USOC-2016-Team-USA-Awards-12.jpg`,
-        `USOC-2016-Team-USA-Awards-10.jpg`
+        `USOC-2016-Team-USA-Awards-10.jpg`,
+        `USOC-2016-Team-USA-Awards-12.jpg`
       ]
     },
     {
       title: `New Balance Press Event`,
-      caption: `Breaking News: Sweet kicks.`,
+      caption: `Breaking News: Sweet Kicks.`,
       url: `work/new-balance-press-event`,
       content: {
-        subtitle: `Breaking News: Sweet kicks.`,
+        subtitle: `Breaking News: Sweet Kicks.`,
         subsubtitle: `
 When New Balance was ready to launch a new line of stylishly casual kicks, we ensured the press event matched the product’s allure. Instead of an overtly flashy soiree, we set the mood with a chic gallery event, complete with a floating shoe installation, live performance art, specialty cocktails, and tunes from DJ Brendan Fallis.
 `,
@@ -180,10 +178,6 @@ Almay stopped in 11 major cities while touring The American Look on their custom
         [
           `Almay-Experience-13.jpg`,
           `[@rebekahveen](https://www.instagram.com/p/5C3ACML6A4/)`
-        ],
-        [
-          `Almay-Experience-11.jpg`,
-          `[@magmarketing](https://www.instagram.com/p/7BrUSDud_j/)`
         ]
       ]
     },
