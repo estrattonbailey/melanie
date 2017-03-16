@@ -119,7 +119,6 @@ After an amazing year at the Rio Olympics, Team USA deserved a big celebration, 
         `USOC-2016-Team-USA-Awards-7.jpg`,
         `USOC-2016-Team-USA-Awards-8.jpg`,
         `USOC-2016-Team-USA-Awards-10.jpg`,
-        `USOC-2016-Team-USA-Awards-12.jpg`
       ]
     },
     {
