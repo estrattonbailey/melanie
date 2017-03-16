@@ -1,10 +1,10 @@
 export default [
   {
     id: 1,
-    prompt: `Hi! What brings you to this neck of the web?`,
+    prompt: `Hi! What brings you to this corner of the web?`,
     answers: [
       {
-        value: 'Who r u?',
+        value: 'Who are you?',
         next: 2
       },
       {
@@ -24,7 +24,7 @@ export default [
 
   {
     id: 2,
-    prompt: `I'm melanie – a graphic designer working in experiential marketing & proud Iowan trying to eat ALL the BLTs.`,
+    prompt: `I'm Melanie – a graphic designer working in experiential marketing & proud Iowan trying to eat ALL the BLTs.`,
     answers: [
       {
         value: `What's experiential?`,
@@ -58,11 +58,15 @@ export default [
 
   {
     id: 4,
-    prompt: `Hi mom. I love you!`,
+    prompt: `Hi Mom. I love you!`,
     answers: [
       {
-        value: `jk, not your mom`,
+        value: `JK, not your mom.`,
         next: 9
+      },
+      {
+        value: `What does 'JK' mean?`,
+        next: 15
       },
     ]
   },
@@ -84,7 +88,7 @@ export default [
 
   {
     id: 6,
-    prompt: `Experiential marketing engages directly with consumers, inviting them to particpate in the evolution of a brand.`,
+    prompt: `Experiential marketing engages directly with consumers. Examples? Hip pop-up shops, wild installations, or simple street teams distributing product samples.`,
     answers: [
       {
         value: `Sounds cool. What have you done?`,
@@ -144,7 +148,7 @@ export default [
 
   {
     id: 11,
-    prompt: `I like experiential because it's just super cool, okay?`,
+    prompt: `There are a number of reasons, but a major hook is the challenge to consistently create ways to surprise and delight consumers.`,
     answers: [
       {
         value: `What are your favorite projects?`,
@@ -162,18 +166,28 @@ export default [
     prompt: `I love the work I've done, but these projects deserve some serious props.`,
     answers: [
       {
-        value: `project 1`,
+        value: `Project 1`,
         next: 'https://twitter.com'
       },
       {
-        value: `project 2`,
+        value: `Project 2`,
         next: 'https://twitter.com'
       },
 
       {
-        value: `project 3`,
+        value: `Project 3`,
         next: 'https://twitter.com'
       },
     ]
   },
+  {
+    id: 15,
+    prompt: `It is you, Mom!`,
+    answers: [
+      {
+        value: `Yay!`,
+        next: 'https://media.giphy.com/media/krewXUB6LBja/giphy.gif'
+      },
+    ]
+  }
 ]

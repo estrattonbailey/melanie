@@ -51,12 +51,12 @@ Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show,
       },
       images: [
         `DEWggro-Crag-Nickelodeon-9.jpg`,
-        `DEWggro-Crag-Nickelodeon-8.jpg`,
         [
           `DEWggro-Crag-Nickelodeon-7.jpg`,
           `[@realjohnnybananas](https://www.instagram.com/p/BGsgWnOtFBr/)`
         ],
         `DEWggro-Crag-Nickelodeon-6.jpg`,
+        `DEWggro-Crag-Nickelodeon-8.jpg`,
         [
           `DEWggro-Crag-Nickelodeon-5.jpg`,
           `[@kactusphotography](https://www.instagram.com/p/BGwz0UwPVzu/)`
@@ -65,8 +65,8 @@ Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show,
           `DEWggro-Crag-Nickelodeon-4.jpg`,
           `[@thesarawilliams](https://www.instagram.com/p/BGu1GlnALQx/)`
         ],
-        `DEWggro-Crag-Nickelodeon-3.jpg`,
         `DEWggro-Crag-Nickelodeon-2.jpg`,
+        `DEWggro-Crag-Nickelodeon-3.jpg`,
         [
           `DEWggro-Crag-Nickelodeon-1.jpg`,
           `[@realjohnnybananas](https://www.instagram.com/p/BGu9H78NFLN/)`
@@ -89,12 +89,12 @@ John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To
         `Fox-Grandfathered-GILF-10.jpg`,
         `Fox-Grandfathered-GILF-1.jpg`,
         `Fox-Grandfathered-GILF-3.jpg`,
-        `Fox-Grandfathered-GILF-4.jpg`,
+        `Fox-Grandfathered-GILF-9.jpg`,
         `Fox-Grandfathered-GILF-5.jpg`,
         `Fox-Grandfathered-GILF-6.jpg`,
         `Fox-Grandfathered-GILF-7.jpg`,
         `Fox-Grandfathered-GILF-8.jpg`,
-        `Fox-Grandfathered-GILF-9.jpg`
+        `Fox-Grandfathered-GILF-4.jpg`
       ]
     },
     {
@@ -119,9 +119,9 @@ After an amazing year at the Rio Olympics, Team USA deserved a big celebration, 
         `USOC-2016-Team-USA-Awards-7.jpg`,
         `USOC-2016-Team-USA-Awards-8.jpg`,
         `USOC-2016-Team-USA-Awards-9.jpg`,
-        `USOC-2016-Team-USA-Awards-10.jpg`,
         `USOC-2016-Team-USA-Awards-11.jpg`,
-        `USOC-2016-Team-USA-Awards-12.jpg`
+        `USOC-2016-Team-USA-Awards-12.jpg`,
+        `USOC-2016-Team-USA-Awards-10.jpg`
       ]
     },
     {
@@ -136,8 +136,8 @@ When New Balance was ready to launch a new line of stylishly casual kicks, we en
         projectFor: `The Michael Alan Group`
       },
       images: [
-        `New-Balance-1.jpg`,
         `New-Balance-2.jpg`,
+        `New-Balance-1.jpg`,
         `New-Balance-3.jpg`,
         `New-Balance-4.jpg`,
         `New-Balance-5.jpg`,
@@ -145,10 +145,6 @@ When New Balance was ready to launch a new line of stylishly casual kicks, we en
         [
           `New-Balance-7.jpg`,
           `[@the_modman](https://www.instagram.com/p/5iS5WySRFL/)`
-        ],
-        [
-          `New-Balance-8.jpg`,
-          `[@brendanfallis](https://www.instagram.com/p/5dEh82pej7/)`
         ]
       ]
     },
@@ -166,47 +162,47 @@ Almay stopped in 11 major cities while touring The American Look on their custom
       images: [
         `Almay-Experience-1.jpg`,
         `Almay-Experience-2.jpg`,
-        `Almay-Experience-3.jpg`,
         `Almay-Experience-4.jpg`,
+        `Almay-Experience-8.jpg`,
         `Almay-Experience-5.jpg`,
         `Almay-Experience-6.jpg`,
+        [
+          `Almay-Experience-12.jpg`,
+          `[@thejavamama](https://www.instagram.com/p/8QdIBarAZH/)`
+        ],
         `Almay-Experience-7.jpg`,
-        `Almay-Experience-8.jpg`,
         `Almay-Experience-9.jpg`,
+        `Almay-Experience-3.jpg`,
         [
           `Almay-Experience-10.jpg`,
           `[@gracie_gordon](https://www.instagram.com/p/2tbNwqDqts/)`
         ],
         [
-          `Almay-Experience-11.jpg`,
-          `[@magmarketing](https://www.instagram.com/p/7BrUSDud_j/)`
-        ],
-        [
-          `Almay-Experience-12.jpg`,
-          `[@thejavamama](https://www.instagram.com/p/8QdIBarAZH/)`
-        ],
-        [
           `Almay-Experience-13.jpg`,
           `[@rebekahveen](https://www.instagram.com/p/5C3ACML6A4/)`
+        ],
+        [
+          `Almay-Experience-11.jpg`,
+          `[@magmarketing](https://www.instagram.com/p/7BrUSDud_j/)`
         ]
       ]
     },
-    {
-      title: `The Michael Alan Group Blog`,
-      caption: `Built from the ground up.`,
-      url: `work/michael-alan-group-blog`,
-      content: {
-        subtitle: `Built from the ground up.`,
-        subsubtitle: `
-Seeking to improve SEO performance and social influence, The Michael Alan Group set out to build a blog. I managed these efforts from the beginning; crafting a content strategy, working with freelance writers, composing my own pieces, researching topics, sourcing visual material, and building each article online. While the initial going was slow and steady, we have built the beast into an efficient machine and continue to make progress toward the initial goals.
-`,
-        projectFor: `The Michael Alan Group`
-      },
-      images: [
-        `image.jpg`,
-        `image2.jpg`
-      ]
-    }
+//     {
+//       title: `The Michael Alan Group Blog`,
+//       caption: `Built from the ground up.`,
+//       url: `work/michael-alan-group-blog`,
+//       content: {
+//         subtitle: `Built from the ground up.`,
+//         subsubtitle: `
+// Seeking to improve SEO performance and social influence, The Michael Alan Group set out to build a blog. I managed these efforts from the beginning; crafting a content strategy, working with freelance writers, composing my own pieces, researching topics, sourcing visual material, and building each article online. While the initial going was slow and steady, we have built the beast into an efficient machine and continue to make progress toward the initial goals.
+// `,
+//         projectFor: `The Michael Alan Group`
+//       },
+//       images: [
+//         `image.jpg`,
+//         `image2.jpg`
+//       ]
+//     }
   ],
   favs: [
     {
