@@ -163,3 +163,31 @@
     max-height: 100%;
   }
 }
+
+.contact {
+  .subject-line {
+    cursor: pointer;
+
+    &:hover ~ h6 {
+      opacity: 1;
+    }
+  }
+
+  h6 {
+    opacity: 0;
+  }
+
+  button {
+    padding: 0.2em 0.5em 0.3em;
+    border: 4px solid currentColor;
+    svg {
+      width: 30px;
+      height: 30px;
+      display: block;
+    }
+  }
+
+  h5 {
+    white-space: nowrap;
+  }
+}
