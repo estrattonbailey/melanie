@@ -1,16 +1,10 @@
 import { tarry, queue } from 'tarry.js'
 
 export default () => {
+  let loaded = false
+
   const modal = document.getElementById('gif')
   const img = modal.getElementsByTagName('img')[0]
-
-  const show = tarry(() => modal.style.display = 'block') 
-  const hide = tarry(() => modal.style.display = 'none') 
-  const toggle = tarry(
-    () => modal.classList.contains('is-active') 
-      ? modal.classList.remove('is-active')
-      : modal.classList.add('is-active')
-  )
 
   const lazy = (url, cb) => {
     let burner = document.createElement('img')
@@ -24,18 +18,23 @@ export default () => {
     window.loader.start()
     window.loader.putz(500)
 
+    modal.style.display = 'block'
+
     lazy(url, url => {
+      loaded = true
       img.src = url
-      queue(show, toggle(200))()
+      img.style.display = 'block'
       window.loader.end()
     })
   }
 
   const close = () => {
-    queue(toggle, hide(200))()
+    loaded = false
+    modal.style.display = 'none'
+    img.style.display = 'none'
   }
 
-  modal.onclick = close
+  modal.onclick = () => loaded ? close() : null
 
   return {
     open,
