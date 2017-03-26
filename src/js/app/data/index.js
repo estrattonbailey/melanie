@@ -152,31 +152,11 @@ export default [
     answers: [
       {
         value: `What are your favorite projects?`,
-        next: 14
+        next: '/work'
       },
       {
         value: `I have questions! Can I email you?`,
         next: '/contact'
-      },
-    ]
-  },
-
-  {
-    id: 14,
-    prompt: `I love the work I've done, but these projects deserve some serious props.`,
-    answers: [
-      {
-        value: `Project 1`,
-        next: 'https://twitter.com'
-      },
-      {
-        value: `Project 2`,
-        next: 'https://twitter.com'
-      },
-
-      {
-        value: `Project 3`,
-        next: 'https://twitter.com'
       },
     ]
   },

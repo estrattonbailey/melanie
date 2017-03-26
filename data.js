@@ -30,7 +30,7 @@ I’m currently working in experiential marketing with [The Michael Alan Group](
       description: `
 Still curious about what I do? Seeking help on a new project? Dying to share some life advice? Shoot me an email at melaniejslattery (at) gmail (dot) com.
 
-Not sure how to start the conversation? Allow me to suggest some potential subject lines:
+Not sure how to start the conversation? Allow me to suggest some potential subject lines that are sure to catch my eye:
 `
       ,
     }
