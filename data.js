@@ -9,9 +9,9 @@ module.exports = {
       description:`
 Because about pages are awkward and my age incites the classic, “you haven’t figured yourself out yet,” I vow to keep this short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
 
-I [tweet sometimes](https://twitter.com/agoddamnlady), but, I recently got a cat, so… Well, you’ve been warned.
+I <a href="https://twitter.com/agoddamnlady" target="_blank">tweet sometimes</a>, but, I recently got a cat, so… Well, you’ve been warned.
 
-I’m currently working in experiential marketing with [The Michael Alan Group](http://michael-alan.com/). Should you fancy a more formal resume, [email me](http://agoddamnlady.com/contact) (because I didn't finish it before launching this site).
+I’m currently working in experiential marketing with <a href="http://michael-alan.com/" target="_blank">The Michael Alan Group</a>. Should you fancy a more formal resume, [email me](/contact/) (because I didn't finish it before launching this site).
 `,
       images: [
         [
@@ -225,7 +225,7 @@ Good luck, my friend.
         subsubtitle: `
 Sure, the assignment was simply to build a site using parallax, but within it I discovered a grand opportunity. A chance to instruct women of the world on how to not merely be a lady, but be a goddamn lady. I assure you I am most qualified, for I have never burped or tooted or looked a gentleman in the eye, and I always take my tea with a shot of brandy.
 
-Jokey jokes. It’s all fun and games. <a href="/how-to" class="no-ajax">See the whole thing here</a>.
+Jokey jokes. It’s all fun and games. <a href="/how-to" class="no-ajax" target="_blank">See the whole thing here</a>.
 `
       },
       images: [
