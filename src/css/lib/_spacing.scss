@@ -1,8 +1,8 @@
 // SPACING
-.mla, .mha { margin-left: auto }
-.mra, .mha { margin-right: auto }
-.mta, .mva { margin-top: auto }
-.mba, .mva { margin-bottom: auto; }
+.mxa, .mla, .mha { margin-left: auto }
+.mxa, .mra, .mha { margin-right: auto }
+.mxa, .mta, .mva { margin-top: auto }
+.mxa, .mba, .mva { margin-bottom: auto; }
 
 $intervals: (
   '0': 0,

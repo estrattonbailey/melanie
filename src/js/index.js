@@ -10,9 +10,20 @@ const loader = window.loader = putz(document.body, {
 })
 
 window.addEventListener('DOMContentLoaded', () => {
-  app()
+  const toggle = document.getElementById('toggle')
+  const menu = document.getElementById('menu')
 
-  contact()
+  const menuToggle = (close) => {
+    const open = menu.classList.contains('is-visible')
+    menu.classList[open || close ? 'remove' : 'add']('is-visible')
+    toggle.classList[open || close ? 'remove' : 'add']('is-active')
+  }
+
+  toggle.addEventListener('click', e => {
+    menuToggle()
+  })
+
+  app()
 
   router.on('route:after', ({ route }) => {
     colors.update()
@@ -20,6 +31,8 @@ window.addEventListener('DOMContentLoaded', () => {
     if (/contact/.test(route)) {
       contact()
     }
+
+    menuToggle(true)
   })
 
   colors.update()
