@@ -49,7 +49,10 @@ export default () => {
   })
 
   subject.addEventListener('click', e => {
+    e.preventDefault()
+    e.stopPropagation()
     copyToClipboard(subject.innerHTML)
     prompt.innerHTML = 'copied!'
+    return false
   })
 }

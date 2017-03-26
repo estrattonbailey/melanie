@@ -45,6 +45,8 @@
     background-color: white;
     padding-top: 4em;
     z-index: 0;
+    padding-left: 0;
+    padding-right: 0;
 
     &.is-visible {
       display: block;
@@ -57,17 +59,20 @@
     }
 
     a {
-      margin-right: 2em;
       text-decoration: none;
 
       @media (min-width: 48em){
+        margin-right: 2em;
         display: inline-block;
         padding: 0;
+
+        &:nth-of-type(3) {
+          margin-right: 0;
+        }
       }
 
       span {
         color: $cb;
-
       }
 
       &.is-active {

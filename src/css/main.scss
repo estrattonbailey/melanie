@@ -94,7 +94,6 @@
 }
 
 .work__image {
-  margin-bottom: 0.5em;
   overflow: hidden;
   margin-bottom: 1em;
 
@@ -146,6 +145,7 @@
 
 .about__image {
   width: 100%;
+  margin-bottom: 1em;
 
   @media (min-width: 48em){
     width: 50%;
