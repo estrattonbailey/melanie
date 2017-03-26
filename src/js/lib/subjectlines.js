@@ -15,5 +15,4 @@ export default [
   `The Results Are In! You are 96% Liz Lemon`,
   `Mmmbop, Ba Duba Dop, Ba Du Bop, Ba Duba Dop`,
   `~*~ rEmEmBeR tYpInG sHiT lIkE tHiS ~*~`,
-  ``
 ]

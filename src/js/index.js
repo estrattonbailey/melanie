@@ -35,5 +35,9 @@ window.addEventListener('DOMContentLoaded', () => {
     menuToggle(true)
   })
 
+  if (/contact/.test(window.location.pathname)) {
+    contact()
+  }
+
   colors.update()
 })
