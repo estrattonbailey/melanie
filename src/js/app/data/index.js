@@ -81,14 +81,14 @@ export default [
       },
       {
         value: `No`,
-        next: 'https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif'
+        next: 'https://media.giphy.com/media/10tD7GP9lHfaPC/giphy.gif'
       },
     ]
   },
 
   {
     id: 6,
-    prompt: `Experiential marketing engages directly with consumers. Examples? Hip pop-up shops, wild installations, or simple street teams distributing product samples.`,
+    prompt: `Experiential marketing engages directly with consumers. Examples? Pop-up shops, stunts, or simple street teams distributing samples.`,
     answers: [
       {
         value: `Sounds cool. What have you done?`,
@@ -141,14 +141,14 @@ export default [
     answers: [
       {
         value: `French Toast`,
-        next: 'https://media.giphy.com/media/14nb6TlIRlaN1u/giphy.gif'
+        next: 'https://media.giphy.com/media/Y8cdPle4eIyPu/giphy.gif'
       },
     ]
   },
 
   {
     id: 11,
-    prompt: `There are a number of reasons, but a major hook is the challenge to consistently create ways to surprise and delight consumers.`,
+    prompt: `There are a number of reasons, but a major hook is the challenge to consistently create ways to surprise and delight.`,
     answers: [
       {
         value: `What are your favorite projects?`,
@@ -185,7 +185,7 @@ export default [
     prompt: `It is you, Mom!`,
     answers: [
       {
-        value: `Yay!`,
+        value: `Yippee!`,
         next: 'https://media.giphy.com/media/krewXUB6LBja/giphy.gif'
       },
     ]

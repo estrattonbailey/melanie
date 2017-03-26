@@ -28,16 +28,38 @@ I’m currently working in experiential marketing with [The Michael Alan Group](
       title: `Send me the goods.`,
       subtitle: `The good gifs, that is.`,
       description: `
-Having trouble? Here are some ideas:
-- 10 Reasons to Open This Email (Open to find out!)
-- FREE FREE FREE JELLY BEANS
-- Is your inner monologue voiced by James Earl Jones? We thought so.
-- Never gonna give you up, never gonna let you down, never gonna run around and desert you.
+Still curious about what I do? Seeking help on a new project? Dying to share some life advice? Shoot me an email at melaniejslattery@gmail.com.
+
+Not sure how to start the conversation? Allow me to suggest some potential subject lines:
 `
       ,
     }
   },
   projects: [
+    {
+      title: `Grandfathered Pop-Up Barbershop`,
+      caption: `Bringing the GILF look back to LA.`,
+      url: `work/grandfathered-pop-up-barbershop`,
+      content: {
+        subtitle: `Bringing the GILF look back to LA.`,
+        subsubtitle: `
+John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To drive tune-in to this GILF, a pop-up barbershop was produced at The Grove in Los Angeles. With a custom design that felt fresh and modern and far-from-aged, we encouraged everyone to hop in to receive their own Grandfathered look.
+`,
+        projectFor: `The Michael Alan Group`
+      },
+      images: [
+        `Fox-Grandfathered-GILF-2.jpg`,
+        `Fox-Grandfathered-GILF-10.jpg`,
+        `Fox-Grandfathered-GILF-1.jpg`,
+        `Fox-Grandfathered-GILF-3.jpg`,
+        `Fox-Grandfathered-GILF-9.jpg`,
+        `Fox-Grandfathered-GILF-4.jpg`,
+        `Fox-Grandfathered-GILF-6.jpg`,
+        `Fox-Grandfathered-GILF-7.jpg`,
+        `Fox-Grandfathered-GILF-8.jpg`,
+        `Fox-Grandfathered-GILF-5.jpg`
+      ]
+    },
     {
       title: `DEWggro Crag Powered by The Splat`,
       caption: `A retro-inspired, soda-filled festival.`,
@@ -45,7 +67,7 @@ Having trouble? Here are some ideas:
       content: {
         subtitle: `A retro-inspired, soda-filled festival.`,
         subsubtitle: `
-Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show, GUTS? Mountain Dew snagged the idea to raise awareness and cast votes for their DEWcision 2016 campaign, and the DEWggro Crag Powered by The Splat was born. Of course, such a marvel couldn’t merely live on its own, and an entire festival surrounded the setup, complete with dueling performers, soda sampling, giveaways, and more.
+Imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show, GUTS. (Yep, close your eyes and picture it.) Mountain Dew snagged the idea to raise awareness and cast votes for their DEWcision 2016 campaign, and the DEWggro Crag Powered by The Splat was born. Of course, such a marvel couldn’t merely live on its own, and an entire festival surrounded the setup, complete with dueling performers, soda sampling, giveaways, and more.
 `,
         projectFor: `The Michael Alan Group, in partnership with Viacom Special Events & Blue Revolver`
       },
@@ -71,30 +93,6 @@ Can you imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show,
           `DEWggro-Crag-Nickelodeon-1.jpg`,
           `[@realjohnnybananas](https://www.instagram.com/p/BGu9H78NFLN/)`
         ]
-      ]
-    },
-    {
-      title: `Grandfathered Pop-Up Barbershop`,
-      caption: `Bringing the GILF look back to LA.`,
-      url: `work/grandfathered-pop-up-barbershop`,
-      content: {
-        subtitle: `Bringing the GILF look back to LA.`,
-        subsubtitle: `
-John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To drive tune-in to this GILF, a pop-up barbershop was produced at The Grove in Los Angeles. With a custom design that felt fresh and modern and far-from-aged, we encouraged everyone to hop in to receive their own Grandfathered look.
-`,
-        projectFor: `The Michael Alan Group`
-      },
-      images: [
-        `Fox-Grandfathered-GILF-2.jpg`,
-        `Fox-Grandfathered-GILF-10.jpg`,
-        `Fox-Grandfathered-GILF-1.jpg`,
-        `Fox-Grandfathered-GILF-3.jpg`,
-        `Fox-Grandfathered-GILF-9.jpg`,
-        `Fox-Grandfathered-GILF-4.jpg`,
-        `Fox-Grandfathered-GILF-6.jpg`,
-        `Fox-Grandfathered-GILF-7.jpg`,
-        `Fox-Grandfathered-GILF-8.jpg`,
-        `Fox-Grandfathered-GILF-5.jpg`
       ]
     },
     {
@@ -213,9 +211,9 @@ Good luck, my friend.
       images: [
         `Floor-Is-Lava-1.jpg`,
         `Floor-Is-Lava-2.jpg`,
-        `Floor-Is-Lava-3.jpg`,
+        `Floor-Is-Lava-5.jpg`,
         `Floor-Is-Lava-4.jpg`,
-        `Floor-Is-Lava-5.jpg`
+        `Floor-Is-Lava-3.jpg`
       ]
     },
     {
@@ -232,10 +230,9 @@ Jokey jokes. It’s all fun and games. See the whole thing here.
       },
       images: [
         `A-Goddamn-Lady-1.jpg`,
-        `A-Goddamn-Lady-2.png`,
-        `A-Goddamn-Lady-3.png`,
         `A-Goddamn-Lady-4.png`,
-        `A-Goddamn-Lady-5.jpg`,
+        `A-Goddamn-Lady-3.png`,
+        `A-Goddamn-Lady-2.png`,
       ]
     },
     {
