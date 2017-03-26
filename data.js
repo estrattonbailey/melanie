@@ -39,7 +39,7 @@ Not sure how to start the conversation? Allow me to suggest some potential subje
     {
       title: `Grandfathered Pop-Up Barbershop`,
       caption: `Bringing the GILF look back to LA.`,
-      url: `work/grandfathered-pop-up-barbershop`,
+      url: `/work/grandfathered-pop-up-barbershop`,
       content: {
         subtitle: `Bringing the GILF look back to LA.`,
         subsubtitle: `
@@ -63,7 +63,7 @@ John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To
     {
       title: `DEWggro Crag Powered by The Splat`,
       caption: `A retro-inspired, soda-filled festival.`,
-      url: `work/dewggro-crag-powered-by-the-splat`,
+      url: `/work/dewggro-crag-powered-by-the-splat`,
       content: {
         subtitle: `A retro-inspired, soda-filled festival.`,
         subsubtitle: `
@@ -98,7 +98,7 @@ Imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show, GUTS. (
     {
       title: `USOC 2016 Team USA Awards`,
       caption: `Yes, the Final Five were there.`,
-      url: `work/usoc-2016-team-usa-awards`,
+      url: `/work/usoc-2016-team-usa-awards`,
       content: {
         subtitle: `Yes, the Final Five were there.`,
         subsubtitle: `
@@ -122,7 +122,7 @@ After an amazing year at the Rio Olympics, Team USA deserved a big celebration, 
     {
       title: `New Balance Press Event`,
       caption: `Breaking News: Sweet Kicks.`,
-      url: `work/new-balance-press-event`,
+      url: `/work/new-balance-press-event`,
       content: {
         subtitle: `Breaking News: Sweet Kicks.`,
         subsubtitle: `
@@ -146,7 +146,7 @@ When New Balance was ready to launch a new line of stylishly casual kicks, we en
     {
       title: `Almay Simply American Bus Tour`,
       caption: `Taking beauty on a road trip.`,
-      url: `work/almay-simply-american-bus-tour`,
+      url: `/work/almay-simply-american-bus-tour`,
       content: {
         subtitle: `Taking beauty on a road trip.`,
         subsubtitle: `
@@ -181,7 +181,7 @@ Almay stopped in 11 major cities while touring The American Look on their custom
 //     {
 //       title: `The Michael Alan Group Blog`,
 //       caption: `Built from the ground up.`,
-//       url: `work/michael-alan-group-blog`,
+//       url: `/work/michael-alan-group-blog`,
 //       content: {
 //         subtitle: `Built from the ground up.`,
 //         subsubtitle: `
@@ -199,7 +199,7 @@ Almay stopped in 11 major cities while touring The American Look on their custom
     {
       title: `The Floor is Lava`,
       caption: `If the childhood game existed in real life.`,
-      url: `work/floor-is-lava`,
+      url: `/work/floor-is-lava`,
       content: {
         subtitle: `If the childhood game existed in real life.`,
         subsubtitle: `
@@ -219,13 +219,13 @@ Good luck, my friend.
     {
       title: `How to Be a Goddamn Lady`,
       caption: `Offering the best advice on the matter.`,
-      url: `work/how-to-be-a-lady`,
+      url: `/work/how-to-be-a-lady`,
       content: {
         subtitle: `Offering the best advice on the matter.`,
         subsubtitle: `
 Sure, the assignment was simply to build a site using parallax, but within it I discovered a grand opportunity. A chance to instruct women of the world on how to not merely be a lady, but be a goddamn lady. I assure you I am most qualified, for I have never burped or tooted or looked a gentleman in the eye, and I always take my tea with a shot of brandy.
 
-Jokey jokes. It’s all fun and games. See the whole thing here.
+Jokey jokes. It’s all fun and games. <a href="/how-to" class="no-ajax">See the whole thing here</a>.
 `
       },
       images: [
@@ -238,7 +238,7 @@ Jokey jokes. It’s all fun and games. See the whole thing here.
     {
       title: `Horse Piss`,
       caption: `Sounds appetizing, right?`,
-      url: `work/horse-piss`,
+      url: `/work/horse-piss`,
       content: {
         subtitle: `Sounds appetizing, right?`,
         subsubtitle: `
