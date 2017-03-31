@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "parallelshell 'npm run files:dev' 'npm run js:dev' 'npm run css:dev'",
+    "build": "node render.js",
+    "serve": "cd site/ && live-server",
     "files:render": "node render.js",
     "files:dev": "onchange 'src/markup/**/*.js' -- npm run files:render",
     "js:build": "browserify src/js/index.js --debug -p [minifyify --map index.js.map --output index.js.map] > site/index.js",
@@ -41,7 +43,7 @@
     "babelify": "*",
     "browserify": "*",
     "exorcist": "*",
-    "fab.js": "*",
+    "fab.js": "^0.3.6",
     "minifyify": "*",
     "node-sass": "^4.5.0",
     "onchange": "*",
@@ -52,7 +54,6 @@
     "watchify": "*"
   },
   "dependencies": {
-    "fab.js": "0.0.4",
     "h0": "^1.0.0-beta.4",
     "layzr.js": "^2.2.1",
     "loop.js": "^0.2.2",

@@ -191,14 +191,33 @@ Seeking to improve SEO performance and social influence, The Michael Alan Group 
       },
       showImages: false,
       images: [
-        `image.jpg`,
-        `image2.jpg`
+        `Michael-Alan-Group-Blog.jpg`,
       ],
       externalLinks: [
         {
-          title: 'Horse Piss',
-          caption: 'Shit on my dick',
-          url: 'http://',
+          title: `An Experiential Ode to Valentine's Day`,
+          caption: `Valentine's Day is upon us again! And we're celebrating with our favorite experiential activations where romance was the star of the show.`,
+          url: 'http://michael-alan.com/experiential-ode-to-valentines-day/',
+        },
+        {
+          title: `Live Streaming 101: Sharing Events With Social Media`,
+          caption: `Products like Facebook Live, Youtube Live, and Periscope make it possible to grow event audiences exponentially, and we're here to share our insider tips.`,
+          url: 'http://michael-alan.com/live-streaming-sharing-events/',
+        },
+        {
+          title: `Event Marketing Upgrades: Swag Edition`,
+          caption: `Our Event Marketing Upgrades series explores small changes that bring big gains. In this edition, we focus on the go-to promotional products consumers love.`,
+          url: 'http://michael-alan.com/event-marketing-upgrades-swag-edition/',
+        },
+        {
+          title: `Diving into Data: Making Experiential Marketing Count`,
+          caption: `We're exploring the five reasons why experiential marketing events need data collection and the five best ways to pull it off.`,
+          url: 'http://michael-alan.com/event-data-making-experiential-marketing-count/',
+        },
+        {
+          title: `A Comprehensive Gift Guide for Event Producers and Designers`,
+          caption: `The holidays have arrived! And we're positive you'll find something perfect in this guide for any event professional.`,
+          url: 'http://michael-alan.com/comprehensive-gift-guide-event-producers-designers/',
         },
       ]
     }

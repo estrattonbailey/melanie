@@ -21,6 +21,7 @@ export default props => (
           <div className="container--s mha">
             {props.locals.externalLinks.map(f => (
               <FavProject
+                external={true}
                 key={f.title}
                 title={f.title}
                 caption={f.caption}
