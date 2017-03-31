@@ -30,7 +30,7 @@ I’m currently working in experiential marketing with <a href="http://michael-a
       description: `
 Still curious about what I do? Seeking help on a new project? Dying to share some life advice? Shoot me an email at melaniejslattery (at) gmail (dot) com.
 
-Not sure how to start the conversation? Allow me to suggest some potential subject lines that are sure to catch my eye:
+Not sure how to start the conversation? Allow me to suggest some subject lines that are sure to catch my eye:
 `
       ,
     }
@@ -131,16 +131,16 @@ When New Balance was ready to launch a new line of stylishly casual kicks, we en
         projectFor: `The Michael Alan Group`
       },
       images: [
-        `New-Balance-2.jpg`,
         `New-Balance-1.jpg`,
-        `New-Balance-3.jpg`,
         `New-Balance-4.jpg`,
+        `New-Balance-3.jpg`,
+        `New-Balance-2.jpg`,
         `New-Balance-5.jpg`,
         `New-Balance-6.jpg`,
         [
           `New-Balance-7.jpg`,
           `[@the_modman](https://www.instagram.com/p/5iS5WySRFL/)`
-        ]
+        ],
       ]
     },
     {
@@ -175,7 +175,7 @@ Almay stopped in 11 major cities while touring The American Look on their custom
         [
           `Almay-Experience-13.jpg`,
           `[@rebekahveen](https://www.instagram.com/p/5C3ACML6A4/)`
-        ]
+        ],
       ]
     },
     {
@@ -220,8 +220,7 @@ Good luck, my friend.
         `Floor-Is-Lava-1.jpg`,
         `Floor-Is-Lava-2.jpg`,
         `Floor-Is-Lava-5.jpg`,
-        `Floor-Is-Lava-4.jpg`,
-        `Floor-Is-Lava-3.jpg`
+        `Floor-Is-Lava-3.jpg`,
       ]
     },
     {
