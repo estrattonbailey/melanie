@@ -12,6 +12,7 @@ const copyToClipboard = msg => {
     document.body.appendChild(text)
     text.select()
     document.execCommand('copy')
+    text.blur()
     document.body.removeChild(text)
   } catch (err) {
     window.prompt('Press Cmd+C or Ctrl+C to copy to clipboard.', msg)
