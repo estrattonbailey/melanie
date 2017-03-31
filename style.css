@@ -709,3 +709,6 @@ select {
 
 .contact h5 {
   white-space: nowrap; }
+
+.touch .contact .subject-line ~ h6 {
+  display: none !important; }
