@@ -178,22 +178,30 @@ Almay stopped in 11 major cities while touring The American Look on their custom
         ]
       ]
     },
-//     {
-//       title: `The Michael Alan Group Blog`,
-//       caption: `Built from the ground up.`,
-//       url: `/work/michael-alan-group-blog`,
-//       content: {
-//         subtitle: `Built from the ground up.`,
-//         subsubtitle: `
-// Seeking to improve SEO performance and social influence, The Michael Alan Group set out to build a blog. I managed these efforts from the beginning; crafting a content strategy, working with freelance writers, composing my own pieces, researching topics, sourcing visual material, and building each article online. While the initial going was slow and steady, we have built the beast into an efficient machine and continue to make progress toward the initial goals.
-// `,
-//         projectFor: `The Michael Alan Group`
-//       },
-//       images: [
-//         `image.jpg`,
-//         `image2.jpg`
-//       ]
-//     }
+    {
+      title: `The Michael Alan Group Blog`,
+      caption: `Built from the ground up.`,
+      url: `/work/michael-alan-group-blog`,
+      content: {
+        subtitle: `Built from the ground up.`,
+        subsubtitle: `
+Seeking to improve SEO performance and social influence, The Michael Alan Group set out to build a blog. I managed these efforts from the beginning; crafting a content strategy, working with freelance writers, composing my own pieces, researching topics, sourcing visual material, and building each article online. While the initial going was slow and steady, we have built the beast into an efficient machine and continue to make progress toward the initial goals.
+`,
+        projectFor: `The Michael Alan Group`
+      },
+      showImages: false,
+      images: [
+        `image.jpg`,
+        `image2.jpg`
+      ],
+      externalLinks: [
+        {
+          title: 'Horse Piss',
+          caption: 'Shit on my dick',
+          url: 'http://',
+        },
+      ]
+    }
   ],
   favs: [
     {
