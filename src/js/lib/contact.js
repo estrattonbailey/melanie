@@ -1,5 +1,7 @@
 import lines from './subjectlines'
 
+const touchSupport = !!(("ontouchstart" in window) || window.navigator && window.navigator.msPointerEnabled && window.MSGesture || window.DocumentTouch && document instanceof DocumentTouch)
+
 const min = 0
 const max = lines.length - 1
 let current = 0
@@ -52,6 +54,7 @@ export default () => {
   subject.addEventListener('click', e => {
     e.preventDefault()
     e.stopPropagation()
+    if (touchSupport) return
     copyToClipboard(subject.innerHTML)
     prompt.innerHTML = 'copied!'
     return false
