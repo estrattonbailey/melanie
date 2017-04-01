@@ -11,7 +11,7 @@ Because about pages are awkward and my age incites the classic, “you haven’t
 
 I <a href="https://twitter.com/agoddamnlady" target="_blank">tweet sometimes</a>, but, I recently got a cat, so… Well, you’ve been warned.
 
-I’m currently working in experiential marketing with <a href="http://michael-alan.com/" target="_blank">The Michael Alan Group</a>. Should you fancy a more formal resume, [email me](/contact/) (because I didn't finish it before launching this site).
+I’m currently working in experiential marketing with <a href="http://michael-alan.com/" target="_blank">The Michael Alan Group</a>. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
 `,
       images: [
         [
