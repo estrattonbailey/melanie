@@ -9,7 +9,7 @@ module.exports = {
       description:`
 Because about pages are awkward and my age incites the classic, “you haven’t figured yourself out yet,” I vow to keep this short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
 
-I <a href="https://twitter.com/agoddamnlady" target="_blank">tweet sometimes</a>, but, I recently got a cat, so… Well, you’ve been warned.
+I catalog visual inspiration on <a href="https://www.pinterest.com/agoddamnlady/" target="_blank">Pinterest</a>, but my recipe board is secret (sorry Charlie, can’t reveal my plans to conquer The Great British Baking Show). I also <a href="https://twitter.com/agoddamnlady" target="_blank">tweet sometimes</a>, but, I recently got a cat, so… Well, you’ve been warned.
 
 I’m currently working in experiential marketing with <a href="http://michael-alan.com/" target="_blank">The Michael Alan Group</a>. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
 `,
