@@ -98,7 +98,6 @@
   margin-bottom: 1em;
 
   @media (min-width: 48em){
-
     &:nth-of-type(even){
       float: left;
       max-width: calc(50% - 0.5em);
@@ -190,4 +189,8 @@
   h5 {
     white-space: nowrap;
   }
+}
+
+.touch .contact .subject-line ~ h6 {
+  display: none !important;
 }

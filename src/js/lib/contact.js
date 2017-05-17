@@ -2,6 +2,10 @@ import lines from './subjectlines'
 
 const touchSupport = !!(("ontouchstart" in window) || window.navigator && window.navigator.msPointerEnabled && window.MSGesture || window.DocumentTouch && document instanceof DocumentTouch)
 
+if (touchSupport) {
+  document.body.classList.add('touch')
+}
+
 const min = 0
 const max = lines.length - 1
 let current = 0
