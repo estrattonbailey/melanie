@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    prompt: `Hi! What brings you to this corner of the web?`,
+    prompt: `Hi! How did you wind up in this corner of the web?`,
     answers: [
       {
         value: 'Who are you?',
@@ -24,7 +24,7 @@ export default [
 
   {
     id: 2,
-    prompt: `I'm Melanie – a graphic designer working in experiential marketing & proud Iowan trying to eat ALL the BLTs.`,
+    prompt: `I'm Melanie – an experiential designer & proud Iowan trying to eat ALL the BLTs.`,
     answers: [
       {
         value: `What's experiential?`,
@@ -88,14 +88,14 @@ export default [
 
   {
     id: 6,
-    prompt: `Experiential marketing engages directly with consumers. Examples? Pop-up shops, stunts, or simple street teams distributing samples.`,
+    prompt: `Experiential, by way of creating experiences, brings a brand to life and engages directly with consumers.`,
     answers: [
       {
-        value: `Sounds cool. What have you done?`,
+        value: `I'm intrigued. What have you done?`,
         next: '/work'
       },
       {
-        value: `Why do you like it?`,
+        value: `But, like, why do you like it?`,
         next: 11
       },
     ]
@@ -106,12 +106,12 @@ export default [
     prompt: `You tell me.`,
     answers: [
       {
-        value: `Beef Liver Toast`,
-        next: 'https://media.giphy.com/media/oFOs10SJSnzos/giphy.gif'
+        value: `Berry Lemon Tostito`,
+        next: 'https://media3.giphy.com/media/3xz2BumkfpAjkjQloc/giphy.gif'
       },
       {
-        value: `Berry Lemon Tart`,
-        next: 'https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif'
+        value: `Bocce Liver Tornado`,
+        next: 'https://media.giphy.com/media/SXeezvYc8uRUc/giphy.gif'
       },
       {
         value: `Bacon Lettuce Tomato`,
@@ -148,14 +148,14 @@ export default [
 
   {
     id: 11,
-    prompt: `There are a number of reasons, but a major hook is the challenge to consistently create ways to surprise and delight.`,
+    prompt: `Beyond simply being a uniquely immersive medium, I thrive on finding ways to surprise and delight.`,
     answers: [
       {
         value: `What are your favorite projects?`,
         next: '/work'
       },
       {
-        value: `I have questions! Can I email you?`,
+        value: `I totally have questions. Can I email you?`,
         next: '/contact'
       },
     ]

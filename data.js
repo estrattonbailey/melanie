@@ -5,11 +5,11 @@ module.exports = {
     },
     about: {
       title: 'Call me Melanie.',
-      subtitle: `Or Mel. It's cute if you asked.`,
+      subtitle: `Or Mel. It's sweet if you asked.`,
       description:`
-Because about pages are awkward and my age incites the classic, “you haven’t figured yourself out yet,” I vow to keep this short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
+Because about pages are awkward and , I vow to keep this short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
 
-I catalog visual inspiration on <a href="https://www.pinterest.com/agoddamnlady/" target="_blank">Pinterest</a>, but my recipe board is secret (sorry Charlie, can’t reveal my plans to conquer The Great British Baking Show). I also <a href="https://twitter.com/agoddamnlady" target="_blank">tweet sometimes</a>, but, I recently got a cat, so… Well, you’ve been warned.
+I catalog visual inspiration on <a href="https://www.pinterest.com/agoddamnlady/" target="_blank">Pinterest</a>, but my recipe board is secret (must protect my plans to conquer The Great British Baking Show). I also <a href="https://twitter.com/agoddamnlady" target="_blank">tweet sometimes</a>, but, I recently got a cat, so… consider yourself warned.
 
 I’m currently working in experiential marketing with <a href="http://michael-alan.com/" target="_blank">The Michael Alan Group</a>. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
 `,
@@ -32,10 +32,67 @@ Still curious about what I do? Seeking help on a new project? Dying to share som
 
 Not sure how to start the conversation? Allow me to suggest some subject lines that are sure to catch my eye:
 `
-      ,
     }
   },
   projects: [
+    {
+      title: `The Perrier Flavor Studio`,
+      caption: `A celebration of flavors, Soho-style.`,
+      url: `/work/perrier-flavor-studio`,
+      content: {
+        subtitle: `A celebration of flavors, Soho-style.`,
+        subsubtitle: `
+To bring the Perrier® flavor range to life, we created a crazy colorful, 5 day pop up experience in the heart of Soho. Featuring original work from Perrier's partner artist, AKACORLEONE, consumers were met with a myriad of opportunites to find their flavor inspiration – from live DJ sets and a digital coloring book, to an Instagram-worthy bubble ball pit and a confetti filled bar serving up mocktails in every Perrier flavor.
+`,
+        projectFor: `The Michael Alan Group`
+      },
+      images: [
+        `the-perrier-flavor-studio-7.jpg`,
+        `the-perrier-flavor-studio-8.jpg`,
+        `the-perrier-flavor-studio-9.jpg`,
+        `the-perrier-flavor-studio-13.jpg`,
+        `the-perrier-flavor-studio-12.jpg`,
+        `the-perrier-flavor-studio-3.jpg`,
+        `the-perrier-flavor-studio-4.jpg`,
+        `the-perrier-flavor-studio-10.jpg`,
+        `the-perrier-flavor-studio-11.jpg`,
+        `the-perrier-flavor-studio-15.jpg`,
+        `the-perrier-flavor-studio-5.jpg`,
+        `the-perrier-flavor-studio-6.jpg`,
+        `the-perrier-flavor-studio-14.jpg`,
+        `the-perrier-flavor-studio-1.jpg`,
+        `the-perrier-flavor-studio-2.jpg`
+      ]
+    },
+    {
+      title: `adidas + Pharrell Williams "Don't Be Quiet Please" Launch Event`,
+      caption: `Celebrating tennis and inspiring change.`,
+      url: `/work/adidas-pharrell-williams-launch-event`,
+      content: {
+        subtitle: `Celebrating tennis and inspiring change.`,
+        subsubtitle: `
+        # Test
+To launch the latest collaboration between adidas and Pharrell Williams, ~Quiet Please~, we created a block-party tennis clinic in Harlem, inviting local youth organizations to join in workshops with some of the biggest names in tennis. The campaign, ~~Quiet Please~~, encourages all to be loud about what's important and inspire change through love.
+
+The event was followed by a city-wide activation, with all (10) chairs landing in unique locations around NYC where consumers were invited to climb up and express themselves.
+`,
+        projectFor: `The Michael Alan Group, in partnership with Johannes Leonardo`
+      },
+      images: [
+        `adidas-pharrell-williams-launch-event-12.jpg`,
+        `adidas-pharrell-williams-launch-event-6.jpg`,
+        `adidas-pharrell-williams-launch-event-10.jpg`,
+        `adidas-pharrell-williams-launch-event-8.jpg`,
+        `adidas-pharrell-williams-launch-event-7.jpg`,
+        `adidas-pharrell-williams-launch-event-9.jpg`,
+        `adidas-pharrell-williams-launch-event-1.jpg`,
+        `adidas-pharrell-williams-launch-event-2.jpg`,
+        `adidas-pharrell-williams-launch-event-3.jpg`,
+        `adidas-pharrell-williams-launch-event-4.jpg`,
+        `adidas-pharrell-williams-launch-event-11.jpg`,
+        `adidas-pharrell-williams-launch-event-5.jpg`
+      ]
+    },
     {
       title: `Grandfathered Pop-Up Barbershop`,
       caption: `Bringing the GILF look back to LA.`,
@@ -56,8 +113,7 @@ John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To
         `Fox-Grandfathered-GILF-4.jpg`,
         `Fox-Grandfathered-GILF-6.jpg`,
         `Fox-Grandfathered-GILF-7.jpg`,
-        `Fox-Grandfathered-GILF-8.jpg`,
-        `Fox-Grandfathered-GILF-5.jpg`
+        `Fox-Grandfathered-GILF-8.jpg`
       ]
     },
     {
@@ -142,8 +198,8 @@ When New Balance was ready to launch a new line of stylishly casual kicks, we en
           `[@the_modman](https://www.instagram.com/p/5iS5WySRFL/)`
         ],
       ]
-    },
-    {
+    }
+   /* {
       title: `Almay Simply American Bus Tour`,
       caption: `Taking beauty on a road trip.`,
       url: `/work/almay-simply-american-bus-tour`,
@@ -218,9 +274,9 @@ Seeking to improve SEO performance and social influence, The Michael Alan Group 
           title: `A Comprehensive Gift Guide for Event Producers and Designers`,
           caption: `The holidays have arrived! And we're positive you'll find something perfect in this guide for any event professional.`,
           url: 'http://michael-alan.com/comprehensive-gift-guide-event-producers-designers/',
-        },
+        }
       ]
-    }
+    } */
   ],
   favs: [
     {
