@@ -52,4 +52,10 @@ Push the branch to the remote git server where it is hosted.
 git push origin gh-pages
 ```
 
+## Previewing the dev site
+From the `/site` directory, run this command.
+```bash
+live-server
+```
+
 That's it!
