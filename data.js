@@ -7,7 +7,7 @@ module.exports = {
       title: 'Call me Melanie.',
       subtitle: `Or Mel. It's sweet if you asked.`,
       description:`
-Because about pages are awkward and , I vow to keep this short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
+To maintain an ounce of my underwhelming mystique, I'll aim to keep this short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
 
 I catalog visual inspiration on <a href="https://www.pinterest.com/agoddamnlady/" target="_blank">Pinterest</a>, but my recipe board is secret (must protect my plans to conquer The Great British Baking Show). I also <a href="https://twitter.com/agoddamnlady" target="_blank">tweet sometimes</a>, but, I recently got a cat, so… consider yourself warned.
 
@@ -71,8 +71,7 @@ To bring the Perrier® flavor range to life, we created a crazy colorful, 5 day 
       content: {
         subtitle: `Celebrating tennis and inspiring change.`,
         subsubtitle: `
-        # Test
-To launch the latest collaboration between adidas and Pharrell Williams, ~Quiet Please~, we created a block-party tennis clinic in Harlem, inviting local youth organizations to join in workshops with some of the biggest names in tennis. The campaign, ~~Quiet Please~~, encourages all to be loud about what's important and inspire change through love.
+To launch the latest collaboration between adidas and Pharrell Williams, "Don't Be Quiet Please", we created a block-party tennis clinic in Harlem, inviting local youth organizations to join in workshops with some of the biggest names in tennis. The campaign encourages all to be loud about what's important and inspire change through love.
 
 The event was followed by a city-wide activation, with all (10) chairs landing in unique locations around NYC where consumers were invited to climb up and express themselves.
 `,

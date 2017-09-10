@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "parallelshell 'npm run files:dev' 'npm run js:dev' 'npm run css:dev'",
-    "build": "node render.js",
+    "build": "npm run files:build && npm run js:build && npm run css:build",
     "serve": "cd site/ && live-server",
-    "files:render": "node render.js",
-    "files:dev": "onchange 'src/markup/**/*.js' -- npm run files:render",
+    "files:build": "node render.js",
+    "files:dev": "onchange 'src/markup/**/*.js' -- npm run files:build",
     "js:build": "browserify src/js/index.js --debug -p [minifyify --map index.js.map --output index.js.map] > site/index.js",
     "js:dev": "watchify src/js/index.js -v -d -o site/index.js",
     "css:build": "node-sass src/css/main.scss | postcss -u autoprefixer > site/style.css",
@@ -59,6 +59,8 @@
     "loop.js": "^0.2.2",
     "operator.js": "^2.0.1",
     "putz": "0.0.2",
+    "remark": "^8.0.0",
+    "remark-react": "^4.0.1",
     "tarry.js": "^0.4.1"
   }
 }
