@@ -7,11 +7,11 @@ module.exports = {
       title: 'Call me Melanie.',
       subtitle: `Or Mel. It's sweet if you asked.`,
       description:`
-To maintain an ounce of my underwhelming mystique, I'll aim to keep this short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
+To uphold a sliver of my underwhelming mystique, I'll keep this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
 
-I catalog visual inspiration on <a href="https://www.pinterest.com/agoddamnlady/" target="_blank">Pinterest</a>, but my recipe board is secret (must protect my plans to conquer The Great British Baking Show). I also <a href="https://twitter.com/agoddamnlady" target="_blank">tweet sometimes</a>, but, I recently got a cat, so… consider yourself warned.
+I catalog visual inspiration on <a href="https://www.pinterest.com/agoddamnlady/" target="_blank">Pinterest</a>, but my recipe board is secret (until I conquer The Great British Baking Show).
 
-I’m currently working in experiential marketing with <a href="http://michael-alan.com/" target="_blank">The Michael Alan Group</a>. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
+I’m currently an art director at <a href="http://www.civic-us.com" target="_blank">Civic Entertainment Group</a>. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a> (but it's probably outdated).
 `,
       images: [
         [
