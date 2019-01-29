@@ -1,26 +1,5 @@
 # melanie
-
-## General notes
-When coming back to the project, make sure you have the latest code in case someone edited a file from another machine.
-```bash
-git pull --rebase origin master
-```
-
-You might also need to install dependencies if something was updated.
-```bash
-npm i
-```
-
-## Updating the source code
-After making changes to whatever files needed, create a commit with a message.
-```bash
-git add . && git commit -m "message"
-```
-
-Then, push the latest commit to Github.
-```bash
-git push origin master
-```
+A site for Mel.
 
 ## Building the site
 From the root `/melanie`, run this command. It renders templates, compile CSS and JS. Outputs everything to `/site`.
@@ -29,33 +8,12 @@ npm run build
 ```
 
 ## Publishing
-Then, move to the `/site` directory where the compiled files live.
-```bash
-cd site/
-```
+For some reason I set this up to track basically a separate project on the
+`gh-pages` branch. So `/site` is actually the `gh-pages` branch, while the rest
+is tracked on `master`.
 
-From inside `/site`, ensure you're on the `gh-pages` branch.
-```bash
-git branch
-
-# should show a * next to gh-pages
-```
-
-Create a new commit.
-```bash
-# this message can be whatever, even just a .
-git add . && git commit -m "message"
-```
-
-Push the branch to the remote git server where it is hosted.
-```bash
-git push origin gh-pages
-```
-
-## Previewing the dev site
-From the `/site` directory, run this command.
-```bash
-live-server
-```
-
-That's it!
+1. So clone `gh-pages` to `/site`, and make sure you're checked out on `gh-pages`
+2. You should be on `master` in the project root, and `gh-pages` in `/site
+3. Build from master using `npm run build`
+4. Back in `/site` you should have unstaged updates
+5. Commit and push to `gh-pages`
