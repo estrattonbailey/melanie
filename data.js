@@ -4,14 +4,12 @@ module.exports = {
       title: `Workin' it.`
     },
     about: {
-      title: 'Call me Melanie.',
-      subtitle: `Or Mel. It's sweet if you asked.`,
+      title: 'Call me Mel.',
+      subtitle: `Or Melanie. It's sweet of you to ask.`,
       description:`
-To uphold a sliver of my underwhelming mystique, I'll keep this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. I design, I write, and I indulge in too many showtunes. No, I still haven’t seen Hamilton.
+To uphold a sliver of my underwhelming mystique, I've kept this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. A few months ago, I abandoned overpriced caffeine to move to Chicago, where, unsurprisingly, coffee is still expensive.
 
-I catalog visual inspiration on <a href="https://www.pinterest.com/agoddamnlady/" target="_blank">Pinterest</a>, but my recipe board is secret (until I conquer The Great British Baking Show).
-
-I’m currently an art director at <a href="http://www.civic-us.com" target="_blank">Civic Entertainment Group</a>. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a> (but it's probably outdated).
+I’m currently a freelance art director and graphic designer. . Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a> (but it's probably outdated).
 `,
       images: [
         [
@@ -28,7 +26,7 @@ I’m currently an art director at <a href="http://www.civic-us.com" target="_bl
       title: `Send me the goods.`,
       subtitle: `The good gifs, that is.`,
       description: `
-Still curious about what I do? Seeking help on a new project? Dying to share some life advice? Shoot me an email at melaniejslattery (at) gmail (dot) com.
+Still curious about what I do? Seeking help on a new project? Dying to share some life advice? Shoot me an email at mel (at) mel (dot) studio.
 
 Not sure how to start the conversation? Allow me to suggest some subject lines that are sure to catch my eye:
 `
