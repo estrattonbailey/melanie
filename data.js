@@ -278,14 +278,14 @@ Seeking to improve SEO performance and social influence, The Michael Alan Group 
   favs: [
     {
       title: `The Floor is Lava`,
-      caption: `If the childhood game existed in real life.`,
+      caption: `Your favorite childhood game, IRL.`,
       url: `/work/floor-is-lava`,
       content: {
-        subtitle: `If the childhood game existed in real life.`,
+        subtitle: `Your favorite childhood game, IRL.`,
         subsubtitle: `
-Allow me to set the scene: You’re a young professional climbing the corporate ladder. You’ve been working long hours in a steel labyrinth somewhere, and you’re finally clocking out and heading home. Drowsily navigating your way to the exit, you took a wrong turn. You’ve come to a long hallway, covered by a bizarre smattering of platforms. The fluorescent buzz fills your head as you catch the caution sign. “ATTENTION: FLOOR IS LAVA.”
+Forever one of my favorite projects.
 
-Good luck, my friend.
+Good luck, my friends.
 `
       },
       images: [
@@ -297,14 +297,14 @@ Good luck, my friend.
     },
     {
       title: `How to Be a Goddamn Lady`,
-      caption: `Offering the best advice on the matter.`,
+      caption: `Trust me, I'm an expert.`,
       url: `/work/how-to-be-a-lady`,
       content: {
-        subtitle: `Offering the best advice on the matter.`,
+        subtitle: `Trust me, I'm an expert.`,
         subsubtitle: `
-Sure, the assignment was simply to build a site using parallax, but within it I discovered a grand opportunity. A chance to instruct women of the world on how to not merely be a lady, but be a goddamn lady. I assure you I am most qualified, for I have never burped or tooted or looked a gentleman in the eye, and I always take my tea with a shot of brandy.
+The assignment was to build a website using parallax, but within it I discovered a grand opportunity. A chance to instruct women of the world on how to not merely be a lady, but be a goddamn lady. I assure you I am most qualified, for I have never burped or tooted or looked a gentleman in the eye, and I take my tea with a shot of brandy.
 
-Jokey jokes. It’s all fun and games. <a href="/how-to" class="no-ajax" target="_blank">See the whole thing here</a>.
+<a href="/how-to" class="no-ajax" target="_blank">See the whole thing here</a>.
 `
       },
       images: [
@@ -316,12 +316,14 @@ Jokey jokes. It’s all fun and games. <a href="/how-to" class="no-ajax" target=
     },
     {
       title: `Horse Piss`,
-      caption: `Sounds appetizing, right?`,
+      caption: `Beer but make it fashion.`,
       url: `/work/horse-piss`,
       content: {
-        subtitle: `Sounds appetizing, right?`,
+        subtitle: `Beer but make it fashion.`,
         subsubtitle: `
-The beverage label: a classic project doled out to most design students. When tasked with this in my college days, I opted for a far-too-appealing craft beer brand. While the design may hit the target aesthetic, the ingredient list is vague and hopefully disconcerting. To carry the theme to it’s full potential, I completed the ensemble with a wooden crate full of straw. I mean, where else would you literally find Horse Piss?
+The beverage label: a classic assignment charged to nearly all design students.
+
+Patent pending.
 `
       },
       images: [
