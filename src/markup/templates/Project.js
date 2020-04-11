@@ -13,6 +13,7 @@ export default props => (
       subtitle={props.locals.content.subtitle}
       description={props.locals.content.subsubtitle}
       projectFor={props.locals.content.projectFor}
+      callouts={props.locals.content.callouts}
       paddingBottomVariant/>
 
     {props.locals.externalLinks && (

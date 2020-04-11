@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    prompt: `Hi! How did you wind up in this corner of the web?`,
+    prompt: `Hey there. What brings you to this corner of the web?`,
     answers: [
       {
         value: 'Who are you?',
@@ -12,11 +12,11 @@ export default [
         next: 3
       },
       {
-        value: `It's your mother.`,
+        value: `It's your mom.`,
         next: 4
       },
       {
-        value: `Funny jokes, plz.`,
+        value: `Funny jokes.`,
         next: 5
       }
     ]
@@ -24,10 +24,10 @@ export default [
 
   {
     id: 2,
-    prompt: `I'm Melanie – an experiential designer & proud Iowan trying to eat ALL the BLTs.`,
+    prompt: `I'm Melanie – a freelance creator & proud Iowan craving ALL the BLTs.`,
     answers: [
       {
-        value: `What's experiential?`,
+        value: `What sort of creator?`,
         next: 6
       },
       {
@@ -39,7 +39,7 @@ export default [
 
   {
     id: 3,
-    prompt: `Rad. Can I show you some projects I've worked on?`,
+    prompt: `Rad. Can I show you some of my work?`,
     answers: [
       {
         value: `Yes, please!`,
@@ -61,11 +61,11 @@ export default [
     prompt: `Hi Mom. I love you!`,
     answers: [
       {
-        value: `JK, not your mom.`,
+        value: `Acutally I'm not your mom.`,
         next: 9
       },
       {
-        value: `What does 'JK' mean?`,
+        value: `It's cold. Put on a jacket.`,
         next: 15
       },
     ]
@@ -88,14 +88,14 @@ export default [
 
   {
     id: 6,
-    prompt: `Experiential, by way of creating experiences, brings a brand to life and engages directly with consumers.`,
+    prompt: `Primarily a graphic designer, I was most recently an art director at an experiential agency.`,
     answers: [
       {
-        value: `I'm intrigued. What have you done?`,
+        value: `Could I see some work?`,
         next: '/work'
       },
       {
-        value: `But, like, why do you like it?`,
+        value: `Why experiential?`,
         next: 11
       },
     ]
@@ -148,14 +148,14 @@ export default [
 
   {
     id: 11,
-    prompt: `Beyond simply being a uniquely immersive medium, I thrive on finding ways to surprise and delight.`,
+    prompt: `Which is more fun— a video of a party or an ACTUAL party?`,
     answers: [
       {
-        value: `What are your favorite projects?`,
+        value: `Let's see these "parties"!`,
         next: '/work'
       },
       {
-        value: `I totally have questions. Can I email you?`,
+        value: `I'm intrigued. Can I email you?`,
         next: '/contact'
       },
     ]

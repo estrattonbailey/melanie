@@ -3,7 +3,7 @@ import Markdown from 'react-markdown'
 
 const def = 'container--s mha ts1'
 
-export default ({ title, subtitle, description, projectFor, paddingBottomVariant }) => (
+export default ({ title, subtitle, description, projectFor, callouts = [], paddingBottomVariant }) => (
   <div className="outer">
     <div className={def + (paddingBottomVariant ? ' pt1 pb05' : ' pv1')}>
       <h1 className="cb mv0">{title}</h1>
@@ -15,11 +15,13 @@ export default ({ title, subtitle, description, projectFor, paddingBottomVariant
           <Markdown source={description}/>
         </div>
       )}
-      {projectFor &&  (
-        <div className="pt05 cb">
-          <p className="ts5"><strong>For:</strong> <em>{projectFor}</em></p>
-        </div>
-      )}
+      <div className="block relative mt2 ts5">
+        {Boolean(callouts.length) &&  (
+          callouts.map(callout => (
+            <p className="block cb ts5 mt025 mb025"><strong>{callout.label}:</strong> <em>{callout.value}</em></p>
+          ))
+        )}
+      </div>
     </div>
   </div>
 )

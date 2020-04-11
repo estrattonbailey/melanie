@@ -32,13 +32,13 @@ export default props => (
 
         </div>
 
-        <SectionDivider>brands</SectionDivider>
+        {/* <SectionDivider>brands</SectionDivider>
 
         <div className="pv1 ts2">
           <img className="block w1" src="/images/clients.jpg"/>
-        </div>
+        </div> */}
 
-        <SectionDivider>fun favorites</SectionDivider>
+        <SectionDivider>personal favorites</SectionDivider>
 
         <div className="pv05 ts2">
           {props.favs.map(f => (

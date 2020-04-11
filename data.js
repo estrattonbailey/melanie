@@ -7,9 +7,9 @@ module.exports = {
       title: 'Call me Mel.',
       subtitle: `Or Melanie. It's sweet of you to ask.`,
       description:`
-To uphold a sliver of my underwhelming mystique, I've kept this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. A few months ago, I abandoned overpriced caffeine to move to Chicago, where, unsurprisingly, coffee is still expensive.
+To maintain my underwhelming mystique, I'm keeping this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. A few months ago, I abandoned overpriced caffeine to move to Chicago, where, unsurprisingly, coffee is still moderately expensive.
 
-I’m currently a freelance art director and graphic designer. . Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a> (but it's probably outdated).
+I’m currently a freelance art director and graphic designer. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
 `,
       images: [
         [
@@ -17,8 +17,8 @@ I’m currently a freelance art director and graphic designer. . Should you fanc
           `This is me.`
         ],
         [
-          `Oscar.jpg`,
-          `This is my cat.`
+          `OscarMiles.jpg`,
+          `These are my cats.`
         ]
       ]
     },
@@ -34,168 +34,299 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
   },
   projects: [
     {
-      title: `The Perrier Flavor Studio`,
-      caption: `A celebration of flavors, Soho-style.`,
-      url: `/work/perrier-flavor-studio`,
+      title: `A Trick of Light Labyrinth @ SDCC`,
+      caption: `Illuminating an origin story created by a legend.`,
+      url: `/work/audible-trick-of-light`,
       content: {
-        subtitle: `A celebration of flavors, Soho-style.`,
+        subtitle: `Illuminating an origin story created by a legend.`,
         subsubtitle: `
-To bring the Perrier® flavor range to life, we created a crazy colorful, 5 day pop up experience in the heart of Soho. Featuring original work from Perrier's partner artist, AKACORLEONE, consumers were met with a myriad of opportunites to find their flavor inspiration – from live DJ sets and a digital coloring book, to an Instagram-worthy bubble ball pit and a confetti filled bar serving up mocktails in every Perrier flavor.
+To promote the highly anticipated Audible Original, *Stan Lee’s Alliances: A Trick of Light* (performed by Yara Shahidi), we invited Comic-Con attendees to navigate an immersive audio labyrinth. To introduce an entirely new universe and trio of heroes, we created an abstract experience, beginning inside a bewildering storm of light and sound that lead into a cyber-inspired maze littered with secret codes, hidden audio triggers and captivating light shows. To build buzz outside our venue, we deployed a troop of other-wordly OPTIC agents who playfully interrogated attendees throughout San Diego.
 `,
-        projectFor: `The Michael Alan Group`
-      },
+callouts: [
+  {
+    label: 'Role',
+    value: 'Art Direction, Graphic Design'
+  },
+  {
+    label: 'For',
+    value: 'CIVIC Entertainment Group'
+  },
+  {
+    label: 'Creative Direction',
+    value: 'Rachel Pumroy'
+  },
+  {
+    label: 'Scenic Designer',
+    value: 'Mark Kremer'
+  },
+]
+},
+      
       images: [
-        `the-perrier-flavor-studio-7.jpg`,
-        `the-perrier-flavor-studio-8.jpg`,
-        `the-perrier-flavor-studio-9.jpg`,
-        `the-perrier-flavor-studio-13.jpg`,
-        `the-perrier-flavor-studio-12.jpg`,
-        `the-perrier-flavor-studio-3.jpg`,
-        `the-perrier-flavor-studio-4.jpg`,
-        `the-perrier-flavor-studio-10.jpg`,
-        `the-perrier-flavor-studio-11.jpg`,
-        `the-perrier-flavor-studio-15.jpg`,
-        `the-perrier-flavor-studio-5.jpg`,
-        `the-perrier-flavor-studio-6.jpg`,
-        `the-perrier-flavor-studio-14.jpg`,
-        `the-perrier-flavor-studio-1.jpg`,
-        `the-perrier-flavor-studio-2.jpg`
+        `AUD_StanLeeSDCC_1.jpg`,
+        `AUD_StanLeeSDCC_13.jpg`,
+        `AUD_StanLeeSDCC_9.jpg`,
+        `AUD_StanLeeSDCC_7.jpg`,
+        `AUD_StanLeeSDCC_5.jpg`,
+        `AUD_StanLeeSDCC_6.jpg`,
+        `AUD_StanLeeSDCC_2.jpg`,
+        `AUD_StanLeeSDCC_3.jpg`,
+        `AUD_StanLeeSDCC_4.jpg`,
+        `AUD_StanLeeSDCC_11.jpg`
       ]
     },
     {
-      title: `adidas + Pharrell Williams "Don't Be Quiet Please" Launch Event`,
-      caption: `Celebrating tennis and inspiring change.`,
-      url: `/work/adidas-pharrell-williams-launch-event`,
+      title: `Lifetime’s Home for Holiday Movies`,
+      caption: `A house-sized serving of holiday cheer.`,
+      url: `/work/lifetime-home-for-holiday-movies`,
       content: {
-        subtitle: `Celebrating tennis and inspiring change.`,
+        subtitle: `A house-sized serving of holiday cheer.`,
         subsubtitle: `
-To launch the latest collaboration between adidas and Pharrell Williams, "Don't Be Quiet Please", we created a block-party tennis clinic in Harlem, inviting local youth organizations to join in workshops with some of the biggest names in tennis. The campaign encourages all to be loud about what's important and inspire change through love.
+To promote Lifetime Network’s ever-growing slate of holiday movies, we built a life-sized gingerbread house filled to the brim with Instagrammable, Santa-approved surprises. To ring in the movie-watching season, the biggest stars of the “It’s A Wonderful Lifetime” line-up (including Melissa Joan Hart and Toni Braxton) gathered at The Grove to press a *real* gingerbread remote button and officially light the Home for Holiday Movies.
+`,
+callouts: [
+  {
+    label: 'Role',
+    value: 'Art Direction, Graphic Design'
+  },
+  {
+    label: 'For',
+    value: 'CIVIC Entertainment Group'
+  },
+  {
+    label: 'Scenic Designer',
+    value: 'David Arsenault'
+  },
+]
+},
+images: [
+  `LFT_Holiday_5.jpg`,
+  `LFT_Holiday_1.jpg`,
+  `LFT_Holiday_2.jpg`,
+  `LFT_Holiday_7.jpg`,
+  [
+    `LFT_Holiday_10.jpg`,
+    `[@nicolelaurenlange](https://www.instagram.com/p/BqQU6xAgL4S/)]`
+  ],
+  [
+    `LFT_Holiday_11.jpg`,
+    `[@jeselyn.perez](https://www.instagram.com/p/BqNmwtYhv-B/)]`
+  ],
+  `LFT_Holiday_9.jpg`,
+  [
+    `LFT_Holiday_12.jpg`,
+    `[@studiodiy](https://www.instagram.com/p/BqL-Ikgnc_5/)]`
+  ],
+  [
+    `LFT_Holiday_16.jpg`,
+    `[@candicenikeia](https://www.instagram.com/p/BqdLqxjhbQN/)]`
+  ],
+  `LFT_Holiday_8.jpg`
+]
+},
+{
+  title: `The Night Realm Tavern @ SXSW`,
+  caption: `Guilty of getting raucous on Rainey.`,
+  url: `/work/audible-heads-will-roll`,
+  content: {
+    subtitle: `Guilty of getting raucous on Rainey.`,
+    subsubtitle: `
+To promote the upcoming release of the Audible Original, *Heads Will Roll* (featuring the voices of Kate McKinnon, Meryl Streep, and more), we invited SXSW attendees to The Night Realm Tavern on Rainey St – Austin’s first (or second) medieval-meets-hipster hang-out fittingly equipped with strong drinks, indulgent eats, and uproarious sneak peek audio of the all-star cast navigating the relatable struggles of the Middle Ages.
+`,
+callouts: [
+{
+label: 'Role',
+value: 'Art Direction, Graphic Design, Prop Styling'
+},
+{
+label: 'For',
+value: 'CIVIC Entertainment Group'
+},
+{
+label: 'Creative Direction',
+value: 'Rachel Pumroy'
+},
+{
+label: 'Scenic Designer',
+value: 'David Arsenault'
+},
+]
+},
+  images: [
+    `AUD_HWRxSXSW_8.jpg`,
+    `AUD_HWRxSXSW_1.jpg`,
+    `AUD_HWRxSXSW_3.jpg`,
+    `AUD_HWRxSXSW_7.jpg`,
+    `AUD_HWRxSXSW_4.jpg`,
+    `AUD_HWRxSXSW_2.jpg`,
+    `AUD_HWRxSXSW_5.jpg`,
+    `AUD_HWRxSXSW_6.jpg`,
+    `AUD_HWRxSXSW_10.jpg`,
+    `AUD_HWRxSXSW_9.jpg`
+  ]
+},
+{
+  title: `HISTORY Channel's Project Blue Book @ SDCC`,
+  caption: `The Con's first hub for sending messages to space.`,
+  url: `/work/history-project-blue-book`,
+  content: {
+    subtitle: `The Con's first hub for sending messages to space. (Literally.)`,
+    subsubtitle: `
+To promote the premiere of History Channel’s newest scripted drama, Project Blue Book, we created a 1950’s-inspired, top-secret research facility in the heart of San Diego. Here, we invited Comic-Con attendees to continue the infamous organization’s extraterrestrial research by literally attempting contact with aliens. After passing a security screening and experiencing some of the most high profile Blue Book cases, participants took a seat at the control center to beam a personalized message into the cosmos.
+`,
+callouts: [
+{
+label: 'Role',
+value: 'Art Direction'
+},
+{
+label: 'For',
+value: 'CIVIC Entertainment Group'
+},
+{
+label: 'Creative Direction',
+value: 'Rachel Pumroy'
+},  {
+label: 'Scenic Designer',
+value: 'Martin Andrew'
+},
+]
+},
+  images: [
+    `HIS_PBBxSDCC_6.jpg`,
+    `HIS_PBBxSDCC_7.jpg`,
+    `HIS_PBBxSDCC_8.jpg`,
+    `HIS_PBBxSDCC_2.jpg`,
+    `HIS_PBBxSDCC_4.jpg`,
+    `HIS_PBBxSDCC_5.jpg`,
+    `HIS_PBBxSDCC_1.jpg`,
+    `HIS_PBBxSDCC_3.jpg`
+  ]
+},
+{
+  title: `Lifetime @ Beautycon NY`,
+  caption: `Celebrating all shades of swagger.`,
+  url: `/work/lifetime-beautycon`,
+  content: {
+    subtitle: `Celebrating all shades of swagger.`,
+    subsubtitle: `
+Lifetime invited Beautycon attendees to celebrate what *already* makes them unique — or, as we dubbed it, their personal shades of swagger. After selecting a bottle of nail polish (to keep!) from a colorful wall of options, guests were encouraged to create a personalized “name” for their shade, which we laser engraved directly on the bottle. Attendees enjoyed mini-manis with their new shades of swagger, and special guests were treated to a meet-and-greet with the stars of the competition series, Glam Masters.
+`,
+callouts: [
+{
+label: 'Role',
+value: 'Art Direction, Graphic Design'
+},
+{
+label: 'For',
+value: 'CIVIC Entertainment Group'
+},
+{
+label: 'Creative Direction',
+value: 'Rachel Pumroy'
+},  {
+label: 'Scenic Designer',
+value: 'David Arsenault'
+},
+]
+},
+  images: [
+    `LFT_Beautycon_4.jpg`,
+    `LFT_Beautycon_2.jpg`,
+    `LFT_Beautycon_3.jpg`,
+    `LFT_Beautycon_9.jpg`,
+    `LFT_Beautycon_5.jpg`,
+    `LFT_Beautycon_6.jpg`,
+    `LFT_Beautycon_11.jpg`,
+    `LFT_Beautycon_8.jpg`,
+    `LFT_Beautycon_1.jpg`,
+    `LFT_Beautycon_10.jpg`
+  ]
+},
 
-The event was followed by a city-wide activation, with all (10) chairs landing in unique locations around NYC where consumers were invited to climb up and express themselves.
-`,
-        projectFor: `The Michael Alan Group, in partnership with Johannes Leonardo`
-      },
-      images: [
-        `adidas-pharrell-williams-launch-event-12.jpg`,
-        `adidas-pharrell-williams-launch-event-6.jpg`,
-        `adidas-pharrell-williams-launch-event-10.jpg`,
-        `adidas-pharrell-williams-launch-event-8.jpg`,
-        `adidas-pharrell-williams-launch-event-7.jpg`,
-        `adidas-pharrell-williams-launch-event-9.jpg`,
-        `adidas-pharrell-williams-launch-event-1.jpg`,
-        `adidas-pharrell-williams-launch-event-2.jpg`,
-        `adidas-pharrell-williams-launch-event-3.jpg`,
-        `adidas-pharrell-williams-launch-event-4.jpg`,
-        `adidas-pharrell-williams-launch-event-11.jpg`,
-        `adidas-pharrell-williams-launch-event-5.jpg`
-      ]
-    },
     {
-      title: `Grandfathered Pop-Up Barbershop`,
-      caption: `Bringing the GILF look back to LA.`,
-      url: `/work/grandfathered-pop-up-barbershop`,
+      title: `Audible’s 64th Man Failgating Tour`,
+      caption: `Where football fails meet tailgating fun.`,
+      url: `/work/audible-64th-man`,
       content: {
-        subtitle: `Bringing the GILF look back to LA.`,
+        subtitle: `Where football fails meet tailgating fun.`,
         subsubtitle: `
-John Stamos (swoon) plays quite the grandpa in the FOX series, Grandfathered. To drive tune-in to this GILF, a pop-up barbershop was produced at The Grove in Los Angeles. With a custom design that felt fresh and modern and far-from-aged, we encouraged everyone to hop in to receive their own Grandfathered look.
+To promote the launch of the new Audible Original, *64th Man* (starring John Cena), we embarked on a tailgate tour tailored to main character Billy Logan’s recurring fate: hilarious fails. Outside of our tour bus (turned locker room turned listening experience), we encouraged NFL and NCAA fans to shank paper football field goals and sack Cena-faced practice dummies for the chance to win limited-edition “L” (for loser!) foam fingers.
 `,
-        projectFor: `The Michael Alan Group`
-      },
-      images: [
-        `Fox-Grandfathered-GILF-2.jpg`,
-        `Fox-Grandfathered-GILF-10.jpg`,
-        `Fox-Grandfathered-GILF-1.jpg`,
-        `Fox-Grandfathered-GILF-3.jpg`,
-        `Fox-Grandfathered-GILF-9.jpg`,
-        `Fox-Grandfathered-GILF-4.jpg`,
-        `Fox-Grandfathered-GILF-6.jpg`,
-        `Fox-Grandfathered-GILF-7.jpg`,
-        `Fox-Grandfathered-GILF-8.jpg`
-      ]
-    },
-    {
-      title: `DEWggro Crag Powered by The Splat`,
-      caption: `A retro-inspired, soda-filled festival.`,
-      url: `/work/dewggro-crag-powered-by-the-splat`,
-      content: {
-        subtitle: `A retro-inspired, soda-filled festival.`,
-        subsubtitle: `
-Imagine climbing the iconic Aggro Crag from the 90’s Nickelodeon show, GUTS. (Yep, close your eyes and picture it.) Mountain Dew snagged the idea to raise awareness and cast votes for their DEWcision 2016 campaign, and the DEWggro Crag Powered by The Splat was born. Of course, such a marvel couldn’t merely live on its own, and an entire festival surrounded the setup, complete with dueling performers, soda sampling, giveaways, and more.
-`,
-        projectFor: `The Michael Alan Group, in partnership with Viacom Special Events & Blue Revolver`
-      },
-      images: [
-        `DEWggro-Crag-Nickelodeon-9.jpg`,
-        [
-          `DEWggro-Crag-Nickelodeon-7.jpg`,
-          `[@realjohnnybananas](https://www.instagram.com/p/BGsgWnOtFBr/)`
-        ],
-        `DEWggro-Crag-Nickelodeon-6.jpg`,
-        `DEWggro-Crag-Nickelodeon-8.jpg`,
-        [
-          `DEWggro-Crag-Nickelodeon-5.jpg`,
-          `[@kactusphotography](https://www.instagram.com/p/BGwz0UwPVzu/)`
-        ],
-        [
-          `DEWggro-Crag-Nickelodeon-4.jpg`,
-          `[@thesarawilliams](https://www.instagram.com/p/BGu1GlnALQx/)`
-        ],
-        `DEWggro-Crag-Nickelodeon-2.jpg`,
-        `DEWggro-Crag-Nickelodeon-3.jpg`,
-        [
-          `DEWggro-Crag-Nickelodeon-1.jpg`,
-          `[@realjohnnybananas](https://www.instagram.com/p/BGu9H78NFLN/)`
+        callouts: [
+          {
+            label: 'Role',
+            value: 'Art Direction, Graphic Design, Prop Styling'
+          },
+          {
+            label: 'For',
+            value: 'CIVIC Entertainment Group'
+          },
+          {
+            label: 'Creative Direction',
+            value: 'Rachel Pumroy'
+          },
+          {
+            label: 'Scenic Designer',
+            value: 'Matthew Kornegay'
+          },
         ]
+      },
+      images: [
+        `AUD_64thMan_1.jpg`,
+        `AUD_64thMan_2.jpg`,
+        `AUD_64thMan_8.jpg`,
+        `AUD_64thMan_11.jpg`,
+        `AUD_64thMan_6.jpg`,
+        `AUD_64thMan_4.jpg`,
+        `AUD_64thMan_9.jpg`,
+        `AUD_64thMan_3.jpg`,
+        `AUD_64thMan_5.jpg`,
+        `AUD_64thMan_10.jpg`
       ]
     },
     {
-      title: `USOC 2016 Team USA Awards`,
-      caption: `Yes, the Final Five were there.`,
-      url: `/work/usoc-2016-team-usa-awards`,
+      title: `Blue Apron Presents: Blue York City`,
+      caption: `An edible ode to the Big Apple.`,
+      url: `/work/blue-apron-blue-york-city`,
       content: {
-        subtitle: `Yes, the Final Five were there.`,
+        subtitle: `An edible ode to the Big Apple.`,
         subsubtitle: `
-After an amazing year at the Rio Olympics, Team USA deserved a big celebration, and that’s precisely what the United States Olympic Committee made happen. The events of the evening included a red carpet procession, an Olympic ring ceremony, an awards show (later aired on NBC Sports Network), and a chic after party. Layout, stage design, branding, and decor were major pieces I helped tackle for this project.
-`,
-        projectFor: `The Michael Alan Group`
-      },
-      images: [
-        `USOC-2016-Team-USA-Awards-13.jpg`,
-        `USOC-2016-Team-USA-Awards-4.jpg`,
-        `USOC-2016-Team-USA-Awards-1.jpg`,
-        `USOC-2016-Team-USA-Awards-2.jpg`,
-        `USOC-2016-Team-USA-Awards-9.jpg`,
-        `USOC-2016-Team-USA-Awards-6.jpg`,
-        `USOC-2016-Team-USA-Awards-5.jpg`,
-        `USOC-2016-Team-USA-Awards-7.jpg`,
-        `USOC-2016-Team-USA-Awards-8.jpg`,
-        `USOC-2016-Team-USA-Awards-10.jpg`,
-      ]
+    For Blue Apron’s debut at the NYC Wine and Food Festival, the company celebrated their hometown with a culinary homage to the city’s most infamous eats. Themed to iconic New York neighborhoods, we invited attendees to indulge in delicious spins on recognizable recipes while a Blue Apron chef demonstrated how easily each dish could be made at home.
+    `,
+    callouts: [
+    {
+    label: 'Role',
+    value: 'Art Direction'
     },
     {
-      title: `New Balance Press Event`,
-      caption: `Breaking News: Sweet Kicks.`,
-      url: `/work/new-balance-press-event`,
-      content: {
-        subtitle: `Breaking News: Sweet Kicks.`,
-        subsubtitle: `
-When New Balance was ready to launch a new line of stylishly casual kicks, we ensured the press event matched the product’s allure. Instead of an overtly flashy soiree, we set the mood with a chic gallery event, complete with a floating shoe installation, live performance art, specialty cocktails, and tunes from DJ Brendan Fallis.
-`,
-        projectFor: `The Michael Alan Group`
-      },
+    label: 'For',
+    value: 'CIVIC Entertainment Group'
+    },
+    {
+    label: 'Creative Direction',
+    value: 'Rachel Pumroy'
+    },  {
+    label: 'Scenic Designer',
+    value: 'David Arsenault'
+    },
+    {
+    label: 'Mural Designer',
+    value: 'Edward Senf'
+    },
+    ]
+    },
       images: [
-        `New-Balance-1.jpg`,
-        `New-Balance-4.jpg`,
-        `New-Balance-3.jpg`,
-        `New-Balance-2.jpg`,
-        `New-Balance-5.jpg`,
-        `New-Balance-6.jpg`,
-        [
-          `New-Balance-7.jpg`,
-          `[@the_modman](https://www.instagram.com/p/5iS5WySRFL/)`
-        ],
+        `BA_BlueYorkCity_7.jpg`,
+        `BA_BlueYorkCity_2.jpg`,
+        `BA_BlueYorkCity_6.jpg`,
+        `BA_BlueYorkCity_3.jpg`,
+        `BA_BlueYorkCity_5.jpg`,
+        `BA_BlueYorkCity_8.jpg`,
+        `BA_BlueYorkCity_1.jpg`,
+        `BA_BlueYorkCity_4.jpg`
       ]
-    }
+    },
    /* {
       title: `Almay Simply American Bus Tour`,
       caption: `Taking beauty on a road trip.`,

@@ -27,6 +27,6 @@ export default props => (
   <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet"/>
   <link href="/style.css" rel="stylesheet" type="text/css"/>
 
-  <title>{props.title ? `${props.title} @` : null}melanie slattery</title>
+  <title>{props.title ? `${props.title} @` : null}mel.studio</title>
 </head>
 )
