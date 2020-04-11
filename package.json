@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run files:build && npm run css:build ; npm run copy:images && concurrently 'npm run data:dev' 'npm run files:dev' 'npm run js:dev' 'npm run css:dev'",
-    "build": "npm run files:build && npm run js:build && npm run css:build",
+    "build": "npm run files:build && npm run js:build && npm run css:build && npm run copy:images && npm run copy:how-to",
     "serve": "cd site/ && live-server",
     "copy:images": "mkdir -p site/images && cp -r images/ site/images/",
+    "copy:how-to": "mkdir -p site/how-to && cp -r how-to/ site/how-to/",
     "data:dev": "onchange 'data.js' -- npm run files:build",
     "files:build": "node render.js",
     "files:dev": "onchange 'src/markup/**/*.js' -- npm run files:build",
