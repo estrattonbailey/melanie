@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run copy:images && concurrently 'npm run data:dev' 'npm run files:dev' 'npm run js:dev' 'npm run css:dev'",
+    "start": "npm run files:build && npm run css:build ; npm run copy:images && concurrently 'npm run data:dev' 'npm run files:dev' 'npm run js:dev' 'npm run css:dev'",
     "build": "npm run files:build && npm run js:build && npm run css:build",
     "serve": "cd site/ && live-server",
     "copy:images": "mkdir -p site/images && cp -r images/ site/images/",
