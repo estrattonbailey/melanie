@@ -29,7 +29,7 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
       title: `Random things I've worked on.`,
       works: [
         {
-          caption: `A photo of Oscar`,
+          caption: `A photo of Oscar.`,
           date: `2020`,
           image: `AUD_StanLeeSDCC_1.jpg`,
           width: 1 / 3,
