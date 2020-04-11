@@ -150,6 +150,35 @@ To promote Lifetime Network’s ever-growing slate of holiday movies, we built a
         `LFT_Holiday_8.jpg`
       ]
     },
+        {
+      title: `The Perrier Flavor Studio`,
+      caption: `A celebration of flavors, Soho-style.`,
+      url: `/work/perrier-flavor-studio`,
+      content: {
+        subtitle: `A celebration of flavors, Soho-style.`,
+        subsubtitle: `
+To bring the Perrier® flavor range to life, we created a crazy colorful, 5 day pop up experience in the heart of Soho. Featuring original work from Perrier's partner artist, AKACORLEONE, consumers were met with a myriad of opportunites to find their flavor inspiration – from live DJ sets and a digital coloring book, to an Instagram-worthy bubble ball pit and a confetti filled bar serving up mocktails in every Perrier flavor.
+`,
+        projectFor: `The Michael Alan Group`
+      },
+      images: [
+        `the-perrier-flavor-studio-7.jpg`,
+        `the-perrier-flavor-studio-8.jpg`,
+        `the-perrier-flavor-studio-9.jpg`,
+        `the-perrier-flavor-studio-13.jpg`,
+        `the-perrier-flavor-studio-12.jpg`,
+        `the-perrier-flavor-studio-3.jpg`,
+        `the-perrier-flavor-studio-4.jpg`,
+        `the-perrier-flavor-studio-10.jpg`,
+        `the-perrier-flavor-studio-11.jpg`,
+        `the-perrier-flavor-studio-15.jpg`,
+        `the-perrier-flavor-studio-5.jpg`,
+        `the-perrier-flavor-studio-6.jpg`,
+        `the-perrier-flavor-studio-14.jpg`,
+        `the-perrier-flavor-studio-1.jpg`,
+        `the-perrier-flavor-studio-2.jpg`
+      ]
+    },
     {
       title: `The Night Realm Tavern @ SXSW`,
       caption: `Guilty of getting raucous on Rainey.`,
