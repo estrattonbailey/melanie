@@ -221,7 +221,7 @@ To promote the upcoming release of the Audible Original, *Heads Will Roll* (feat
       ]
     },
     {
-      title: `HISTORY Channel's Project Blue Book @ SDCC`,
+      title: `History Channel's Project Blue Book @ SDCC`,
       caption: `The Con's first hub for sending messages to space.`,
       url: `/work/history-project-blue-book`,
       content: {
@@ -349,7 +349,7 @@ To promote the launch of the new Audible Original, *64th Man* (starring John Cen
       content: {
         subtitle: `An edible ode to the Big Apple.`,
         subsubtitle: `
-    For Blue Apron’s debut at the NYC Wine and Food Festival, the company celebrated their hometown with a culinary homage to the city’s most infamous eats. Themed to iconic New York neighborhoods, we invited attendees to indulge in delicious spins on recognizable recipes while a Blue Apron chef demonstrated how easily each dish could be made at home.
+For Blue Apron’s debut at the NYC Wine and Food Festival, the company celebrated their hometown with a culinary homage to the city’s most infamous eats. Themed to iconic New York neighborhoods, we invited attendees to indulge in delicious spins on recognizable recipes while a Blue Apron chef demonstrated how easily each dish could be made at home.
     `,
         callouts: [
           {
