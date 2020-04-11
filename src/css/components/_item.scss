@@ -25,3 +25,12 @@
     padding-left: 2em;
   }
 }
+.item__view {
+  color: $c0 !important;
+
+  &:focus,
+  &:hover {
+    outline: 0;
+    color: $cb !important;
+  }
+}

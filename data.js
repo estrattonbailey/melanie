@@ -4,22 +4,16 @@ module.exports = {
       title: `Workin' it.`
     },
     about: {
-      title: 'Call me Mel.',
+      title: "Call me Mel.",
       subtitle: `Or Melanie. It's sweet of you to ask.`,
-      description:`
+      description: `
 To maintain my underwhelming mystique, I'm keeping this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. A few months ago, I abandoned overpriced caffeine to move to Chicago, where, unsurprisingly, coffee is still moderately expensive.
 
 I’m currently a freelance art director and graphic designer. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
 `,
       images: [
-        [
-          `Melanie.jpg`,
-          `This is me.`
-        ],
-        [
-          `OscarMiles.jpg`,
-          `These are my cats.`
-        ]
+        [`Melanie.jpg`, `This is me.`],
+        [`OscarMiles.jpg`, `These are my cats.`]
       ]
     },
     contact: {
@@ -30,6 +24,38 @@ Still curious about what I do? Seeking help on a new project? Dying to share som
 
 Not sure how to start the conversation? Allow me to suggest some subject lines that are sure to catch my eye:
 `
+    },
+    misc: {
+      title: `Random things I've worked on.`,
+      works: [
+        {
+          caption: `A photo of Oscar`,
+          date: `2020`,
+          image: `AUD_StanLeeSDCC_1.jpg`,
+          width: 1 / 3,
+        },
+        {
+          date: `2020`,
+          image: `LFT_Holiday_9.jpg`,
+          width: 1 / 3,
+        },
+        {
+          caption: `A photo of Oscar`,
+          date: `2020`,
+          image: `AUD_StanLeeSDCC_1.jpg`,
+          width: 1 / 3,
+        },
+        {
+          caption: `A photo of Oscar`,
+          date: `2020`,
+          image: `AUD_StanLeeSDCC_1.jpg`,
+        },
+        {
+          caption: `A photo of Oscar`,
+          date: `2020`,
+          image: `AUD_StanLeeSDCC_1.jpg`,
+        },
+      ]
     }
   },
   projects: [
@@ -42,26 +68,26 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
         subsubtitle: `
 To promote the highly anticipated Audible Original, *Stan Lee’s Alliances: A Trick of Light* (performed by Yara Shahidi), we invited Comic-Con attendees to navigate an immersive audio labyrinth. To introduce an entirely new universe and trio of heroes, we created an abstract experience, beginning inside a bewildering storm of light and sound that lead into a cyber-inspired maze littered with secret codes, hidden audio triggers and captivating light shows. To build buzz outside our venue, we deployed a troop of other-wordly OPTIC agents who playfully interrogated attendees throughout San Diego.
 `,
-callouts: [
-  {
-    label: 'Role',
-    value: 'Art Direction, Graphic Design'
-  },
-  {
-    label: 'For',
-    value: 'CIVIC Entertainment Group'
-  },
-  {
-    label: 'Creative Direction',
-    value: 'Rachel Pumroy'
-  },
-  {
-    label: 'Scenic Designer',
-    value: 'Mark Kremer'
-  },
-]
-},
-      
+        callouts: [
+          {
+            label: "Role",
+            value: "Art Direction, Graphic Design"
+          },
+          {
+            label: "For",
+            value: "CIVIC Entertainment Group"
+          },
+          {
+            label: "Creative Direction",
+            value: "Rachel Pumroy"
+          },
+          {
+            label: "Scenic Designer",
+            value: "Mark Kremer"
+          }
+        ]
+      },
+
       images: [
         `AUD_StanLeeSDCC_1.jpg`,
         `AUD_StanLeeSDCC_13.jpg`,
@@ -84,165 +110,167 @@ callouts: [
         subsubtitle: `
 To promote Lifetime Network’s ever-growing slate of holiday movies, we built a life-sized gingerbread house filled to the brim with Instagrammable, Santa-approved surprises. To ring in the movie-watching season, the biggest stars of the “It’s A Wonderful Lifetime” line-up (including Melissa Joan Hart and Toni Braxton) gathered at The Grove to press a *real* gingerbread remote button and officially light the Home for Holiday Movies.
 `,
-callouts: [
-  {
-    label: 'Role',
-    value: 'Art Direction, Graphic Design'
-  },
-  {
-    label: 'For',
-    value: 'CIVIC Entertainment Group'
-  },
-  {
-    label: 'Scenic Designer',
-    value: 'David Arsenault'
-  },
-]
-},
-images: [
-  `LFT_Holiday_5.jpg`,
-  `LFT_Holiday_1.jpg`,
-  `LFT_Holiday_2.jpg`,
-  `LFT_Holiday_7.jpg`,
-  [
-    `LFT_Holiday_10.jpg`,
-    `[@nicolelaurenlange](https://www.instagram.com/p/BqQU6xAgL4S/)]`
-  ],
-  [
-    `LFT_Holiday_11.jpg`,
-    `[@jeselyn.perez](https://www.instagram.com/p/BqNmwtYhv-B/)]`
-  ],
-  `LFT_Holiday_9.jpg`,
-  [
-    `LFT_Holiday_12.jpg`,
-    `[@studiodiy](https://www.instagram.com/p/BqL-Ikgnc_5/)]`
-  ],
-  [
-    `LFT_Holiday_16.jpg`,
-    `[@candicenikeia](https://www.instagram.com/p/BqdLqxjhbQN/)]`
-  ],
-  `LFT_Holiday_8.jpg`
-]
-},
-{
-  title: `The Night Realm Tavern @ SXSW`,
-  caption: `Guilty of getting raucous on Rainey.`,
-  url: `/work/audible-heads-will-roll`,
-  content: {
-    subtitle: `Guilty of getting raucous on Rainey.`,
-    subsubtitle: `
+        callouts: [
+          {
+            label: "Role",
+            value: "Art Direction, Graphic Design"
+          },
+          {
+            label: "For",
+            value: "CIVIC Entertainment Group"
+          },
+          {
+            label: "Scenic Designer",
+            value: "David Arsenault"
+          }
+        ]
+      },
+      images: [
+        `LFT_Holiday_5.jpg`,
+        `LFT_Holiday_1.jpg`,
+        `LFT_Holiday_2.jpg`,
+        `LFT_Holiday_7.jpg`,
+        [
+          `LFT_Holiday_10.jpg`,
+          `[@nicolelaurenlange](https://www.instagram.com/p/BqQU6xAgL4S/)]`
+        ],
+        [
+          `LFT_Holiday_11.jpg`,
+          `[@jeselyn.perez](https://www.instagram.com/p/BqNmwtYhv-B/)]`
+        ],
+        `LFT_Holiday_9.jpg`,
+        [
+          `LFT_Holiday_12.jpg`,
+          `[@studiodiy](https://www.instagram.com/p/BqL-Ikgnc_5/)]`
+        ],
+        [
+          `LFT_Holiday_16.jpg`,
+          `[@candicenikeia](https://www.instagram.com/p/BqdLqxjhbQN/)]`
+        ],
+        `LFT_Holiday_8.jpg`
+      ]
+    },
+    {
+      title: `The Night Realm Tavern @ SXSW`,
+      caption: `Guilty of getting raucous on Rainey.`,
+      url: `/work/audible-heads-will-roll`,
+      content: {
+        subtitle: `Guilty of getting raucous on Rainey.`,
+        subsubtitle: `
 To promote the upcoming release of the Audible Original, *Heads Will Roll* (featuring the voices of Kate McKinnon, Meryl Streep, and more), we invited SXSW attendees to The Night Realm Tavern on Rainey St – Austin’s first (or second) medieval-meets-hipster hang-out fittingly equipped with strong drinks, indulgent eats, and uproarious sneak peek audio of the all-star cast navigating the relatable struggles of the Middle Ages.
 `,
-callouts: [
-{
-label: 'Role',
-value: 'Art Direction, Graphic Design, Prop Styling'
-},
-{
-label: 'For',
-value: 'CIVIC Entertainment Group'
-},
-{
-label: 'Creative Direction',
-value: 'Rachel Pumroy'
-},
-{
-label: 'Scenic Designer',
-value: 'David Arsenault'
-},
-]
-},
-  images: [
-    `AUD_HWRxSXSW_8.jpg`,
-    `AUD_HWRxSXSW_1.jpg`,
-    `AUD_HWRxSXSW_3.jpg`,
-    `AUD_HWRxSXSW_7.jpg`,
-    `AUD_HWRxSXSW_4.jpg`,
-    `AUD_HWRxSXSW_2.jpg`,
-    `AUD_HWRxSXSW_5.jpg`,
-    `AUD_HWRxSXSW_6.jpg`,
-    `AUD_HWRxSXSW_10.jpg`,
-    `AUD_HWRxSXSW_9.jpg`
-  ]
-},
-{
-  title: `HISTORY Channel's Project Blue Book @ SDCC`,
-  caption: `The Con's first hub for sending messages to space.`,
-  url: `/work/history-project-blue-book`,
-  content: {
-    subtitle: `The Con's first hub for sending messages to space. (Literally.)`,
-    subsubtitle: `
+        callouts: [
+          {
+            label: "Role",
+            value: "Art Direction, Graphic Design, Prop Styling"
+          },
+          {
+            label: "For",
+            value: "CIVIC Entertainment Group"
+          },
+          {
+            label: "Creative Direction",
+            value: "Rachel Pumroy"
+          },
+          {
+            label: "Scenic Designer",
+            value: "David Arsenault"
+          }
+        ]
+      },
+      images: [
+        `AUD_HWRxSXSW_8.jpg`,
+        `AUD_HWRxSXSW_1.jpg`,
+        `AUD_HWRxSXSW_3.jpg`,
+        `AUD_HWRxSXSW_7.jpg`,
+        `AUD_HWRxSXSW_4.jpg`,
+        `AUD_HWRxSXSW_2.jpg`,
+        `AUD_HWRxSXSW_5.jpg`,
+        `AUD_HWRxSXSW_6.jpg`,
+        `AUD_HWRxSXSW_10.jpg`,
+        `AUD_HWRxSXSW_9.jpg`
+      ]
+    },
+    {
+      title: `HISTORY Channel's Project Blue Book @ SDCC`,
+      caption: `The Con's first hub for sending messages to space.`,
+      url: `/work/history-project-blue-book`,
+      content: {
+        subtitle: `The Con's first hub for sending messages to space. (Literally.)`,
+        subsubtitle: `
 To promote the premiere of History Channel’s newest scripted drama, Project Blue Book, we created a 1950’s-inspired, top-secret research facility in the heart of San Diego. Here, we invited Comic-Con attendees to continue the infamous organization’s extraterrestrial research by literally attempting contact with aliens. After passing a security screening and experiencing some of the most high profile Blue Book cases, participants took a seat at the control center to beam a personalized message into the cosmos.
 `,
-callouts: [
-{
-label: 'Role',
-value: 'Art Direction'
-},
-{
-label: 'For',
-value: 'CIVIC Entertainment Group'
-},
-{
-label: 'Creative Direction',
-value: 'Rachel Pumroy'
-},  {
-label: 'Scenic Designer',
-value: 'Martin Andrew'
-},
-]
-},
-  images: [
-    `HIS_PBBxSDCC_6.jpg`,
-    `HIS_PBBxSDCC_7.jpg`,
-    `HIS_PBBxSDCC_8.jpg`,
-    `HIS_PBBxSDCC_2.jpg`,
-    `HIS_PBBxSDCC_4.jpg`,
-    `HIS_PBBxSDCC_5.jpg`,
-    `HIS_PBBxSDCC_1.jpg`,
-    `HIS_PBBxSDCC_3.jpg`
-  ]
-},
-{
-  title: `Lifetime @ Beautycon NY`,
-  caption: `Celebrating all shades of swagger.`,
-  url: `/work/lifetime-beautycon`,
-  content: {
-    subtitle: `Celebrating all shades of swagger.`,
-    subsubtitle: `
+        callouts: [
+          {
+            label: "Role",
+            value: "Art Direction"
+          },
+          {
+            label: "For",
+            value: "CIVIC Entertainment Group"
+          },
+          {
+            label: "Creative Direction",
+            value: "Rachel Pumroy"
+          },
+          {
+            label: "Scenic Designer",
+            value: "Martin Andrew"
+          }
+        ]
+      },
+      images: [
+        `HIS_PBBxSDCC_6.jpg`,
+        `HIS_PBBxSDCC_7.jpg`,
+        `HIS_PBBxSDCC_8.jpg`,
+        `HIS_PBBxSDCC_2.jpg`,
+        `HIS_PBBxSDCC_4.jpg`,
+        `HIS_PBBxSDCC_5.jpg`,
+        `HIS_PBBxSDCC_1.jpg`,
+        `HIS_PBBxSDCC_3.jpg`
+      ]
+    },
+    {
+      title: `Lifetime @ Beautycon NY`,
+      caption: `Celebrating all shades of swagger.`,
+      url: `/work/lifetime-beautycon`,
+      content: {
+        subtitle: `Celebrating all shades of swagger.`,
+        subsubtitle: `
 Lifetime invited Beautycon attendees to celebrate what *already* makes them unique — or, as we dubbed it, their personal shades of swagger. After selecting a bottle of nail polish (to keep!) from a colorful wall of options, guests were encouraged to create a personalized “name” for their shade, which we laser engraved directly on the bottle. Attendees enjoyed mini-manis with their new shades of swagger, and special guests were treated to a meet-and-greet with the stars of the competition series, Glam Masters.
 `,
-callouts: [
-{
-label: 'Role',
-value: 'Art Direction, Graphic Design'
-},
-{
-label: 'For',
-value: 'CIVIC Entertainment Group'
-},
-{
-label: 'Creative Direction',
-value: 'Rachel Pumroy'
-},  {
-label: 'Scenic Designer',
-value: 'David Arsenault'
-},
-]
-},
-  images: [
-    `LFT_Beautycon_4.jpg`,
-    `LFT_Beautycon_2.jpg`,
-    `LFT_Beautycon_3.jpg`,
-    `LFT_Beautycon_9.jpg`,
-    `LFT_Beautycon_5.jpg`,
-    `LFT_Beautycon_6.jpg`,
-    `LFT_Beautycon_11.jpg`,
-    `LFT_Beautycon_8.jpg`,
-    `LFT_Beautycon_1.jpg`,
-    `LFT_Beautycon_10.jpg`
-  ]
-},
+        callouts: [
+          {
+            label: "Role",
+            value: "Art Direction, Graphic Design"
+          },
+          {
+            label: "For",
+            value: "CIVIC Entertainment Group"
+          },
+          {
+            label: "Creative Direction",
+            value: "Rachel Pumroy"
+          },
+          {
+            label: "Scenic Designer",
+            value: "David Arsenault"
+          }
+        ]
+      },
+      images: [
+        `LFT_Beautycon_4.jpg`,
+        `LFT_Beautycon_2.jpg`,
+        `LFT_Beautycon_3.jpg`,
+        `LFT_Beautycon_9.jpg`,
+        `LFT_Beautycon_5.jpg`,
+        `LFT_Beautycon_6.jpg`,
+        `LFT_Beautycon_11.jpg`,
+        `LFT_Beautycon_8.jpg`,
+        `LFT_Beautycon_1.jpg`,
+        `LFT_Beautycon_10.jpg`
+      ]
+    },
 
     {
       title: `Audible’s 64th Man Failgating Tour`,
@@ -255,21 +283,21 @@ To promote the launch of the new Audible Original, *64th Man* (starring John Cen
 `,
         callouts: [
           {
-            label: 'Role',
-            value: 'Art Direction, Graphic Design, Prop Styling'
+            label: "Role",
+            value: "Art Direction, Graphic Design, Prop Styling"
           },
           {
-            label: 'For',
-            value: 'CIVIC Entertainment Group'
+            label: "For",
+            value: "CIVIC Entertainment Group"
           },
           {
-            label: 'Creative Direction',
-            value: 'Rachel Pumroy'
+            label: "Creative Direction",
+            value: "Rachel Pumroy"
           },
           {
-            label: 'Scenic Designer',
-            value: 'Matthew Kornegay'
-          },
+            label: "Scenic Designer",
+            value: "Matthew Kornegay"
+          }
         ]
       },
       images: [
@@ -294,28 +322,29 @@ To promote the launch of the new Audible Original, *64th Man* (starring John Cen
         subsubtitle: `
     For Blue Apron’s debut at the NYC Wine and Food Festival, the company celebrated their hometown with a culinary homage to the city’s most infamous eats. Themed to iconic New York neighborhoods, we invited attendees to indulge in delicious spins on recognizable recipes while a Blue Apron chef demonstrated how easily each dish could be made at home.
     `,
-    callouts: [
-    {
-    label: 'Role',
-    value: 'Art Direction'
-    },
-    {
-    label: 'For',
-    value: 'CIVIC Entertainment Group'
-    },
-    {
-    label: 'Creative Direction',
-    value: 'Rachel Pumroy'
-    },  {
-    label: 'Scenic Designer',
-    value: 'David Arsenault'
-    },
-    {
-    label: 'Mural Designer',
-    value: 'Edward Senf'
-    },
-    ]
-    },
+        callouts: [
+          {
+            label: "Role",
+            value: "Art Direction"
+          },
+          {
+            label: "For",
+            value: "CIVIC Entertainment Group"
+          },
+          {
+            label: "Creative Direction",
+            value: "Rachel Pumroy"
+          },
+          {
+            label: "Scenic Designer",
+            value: "David Arsenault"
+          },
+          {
+            label: "Mural Designer",
+            value: "Edward Senf"
+          }
+        ]
+      },
       images: [
         `BA_BlueYorkCity_7.jpg`,
         `BA_BlueYorkCity_2.jpg`,
@@ -327,7 +356,7 @@ To promote the launch of the new Audible Original, *64th Man* (starring John Cen
         `BA_BlueYorkCity_4.jpg`
       ]
     },
-   /* {
+    /* {
       title: `Almay Simply American Bus Tour`,
       caption: `Taking beauty on a road trip.`,
       url: `/work/almay-simply-american-bus-tour`,
@@ -423,7 +452,7 @@ Good luck, my friends.
         `Floor-Is-Lava-1.jpg`,
         `Floor-Is-Lava-2.jpg`,
         `Floor-Is-Lava-5.jpg`,
-        `Floor-Is-Lava-3.jpg`,
+        `Floor-Is-Lava-3.jpg`
       ]
     },
     {
@@ -442,7 +471,7 @@ The assignment was to build a website using parallax, but within it I discovered
         `A-Goddamn-Lady-1.jpg`,
         `A-Goddamn-Lady-4.png`,
         `A-Goddamn-Lady-3.png`,
-        `A-Goddamn-Lady-2.png`,
+        `A-Goddamn-Lady-2.png`
       ]
     },
     {
@@ -465,4 +494,4 @@ Patent pending.
       ]
     }
   ]
-}
+};

@@ -2,6 +2,8 @@
   padding-top: 1.2em;
   z-index: 1000;
   background-color: white;
+  font-weight: 600;
+  letter-spacing: 0.2px;
 
   @media (min-width: 48em){
     text-align: right;
@@ -61,6 +63,14 @@
     a {
       text-decoration: none;
 
+      &:focus,
+      &:hover {
+        outline: 0;
+        span {
+          color: $c0 !important;
+        }
+      }
+
       @media (min-width: 48em){
         margin-right: 2em;
         display: inline-block;
@@ -76,7 +86,9 @@
       }
 
       &.is-active {
-        background-color: currentColor;
+        span {
+          color: $c0 !important;
+        }
       }
     }
   }

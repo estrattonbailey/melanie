@@ -5,7 +5,7 @@ export default [
   `Your Weird Dreams Explained: No, You Shouldn't Get a Pet Panda`,
   `Application Accepted – Cheesecake Club of America`,
   `Casting Call – Seeking Actress To Play Rose in Titanic Reboot`,
-  `20 Step Program: Change Your Innner Monologue's Voice to Jame Earl Jones`,
+  `20 Step Program: Change Your Innner Monologue's Voice to James Earl Jones`,
   `[NOTIFICATION] - New Post in Forum "Did E.T. leave me emotionally scarred?"`,
   `Highly Reputable Science Magazine: French Fries are the New Superfood`,
   `Fw: Fw: Fw: Fw: omg omg omg check this out rn!`,

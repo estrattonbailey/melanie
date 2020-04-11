@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fahkwang:ital,wght@0,300;0,400;0,600;1,400&display=swap');
+
 @import "lib/normalize";
 @import "lib/display";
 @import "lib/widths";
@@ -136,7 +138,7 @@
 }
 .work__image__caption {
   margin-top: 0.25em;
-  border: 4px solid currentColor;
+  border: 1px solid currentColor;
 
   p {
     margin: 0;
@@ -178,12 +180,19 @@
   }
 
   button {
-    padding: 0.2em 0.5em 0.3em;
-    border: 4px solid currentColor;
+    padding: 0.3em 0.5em 0.3em;
+    border: 1px solid currentColor;
+    color: $c0 !important;
     svg {
       width: 30px;
       height: 30px;
       display: block;
+    }
+
+    &:focus,
+    &:hover {
+      outline: 0;
+      color: $cb !important;
     }
   }
 
@@ -194,4 +203,29 @@
 
 .touch .contact .subject-line ~ h6 {
   display: none !important;
+}
+
+.misc {
+  width: 100%;
+}
+.misc__inner {
+  @media (min-width: 48em) {
+    margin-left: -25px;
+    margin-right: -25px;
+  }
+}
+.misc__item {
+  padding-bottom: 50px;
+
+  img {
+    max-width: 100%;
+  }
+
+  @media (min-width: 48em) {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  @media (max-width: 48em) {
+    width: 100% !important;
+  }
 }
