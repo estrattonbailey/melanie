@@ -26,30 +26,26 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
 `
     },
     misc: {
-      title: `A routinely updated collection of unique design work.`,
+      title: `A routinely updated collection of design work.`,
       works: [
         {
           caption: `Audible Travel Poster Series`,
           date: `2020`,
           image: `AUD_TravelPoster1.png`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           date: `2020`,
           image: `AUD_TravelPoster2.png`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           image: `AUD_TravelPoster3.png`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           image: `AUD_TravelPoster4.png`,
-          width: 1 / 5,
-        },
-        {
-          image: `AUD_TravelPoster5.png`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           caption: `Mural Concept for Audible @ Sundance`,
