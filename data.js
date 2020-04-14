@@ -26,34 +26,36 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
 `
     },
     misc: {
-      title: `Random things I've worked on.`,
+      title: `A routinely updated collection of unique design work.`,
       works: [
         {
-          caption: `A photo of Oscar`,
+          caption: `Audible Travel Poster Series`,
           date: `2020`,
-          image: `AUD_StanLeeSDCC_1.jpg`,
-          width: 1 / 3,
+          image: `AUD_TravelPoster1.png`,
+          width: 1 / 5,
         },
         {
           date: `2020`,
-          image: `LFT_Holiday_9.jpg`,
-          width: 1 / 3,
+          image: `AUD_TravelPoster2.png`,
+          width: 1 / 5,
         },
         {
-          caption: `A photo of Oscar`,
-          date: `2020`,
-          image: `AUD_StanLeeSDCC_1.jpg`,
-          width: 1 / 3,
+          image: `AUD_TravelPoster3.png`,
+          width: 1 / 5,
         },
         {
-          caption: `A photo of Oscar`,
-          date: `2020`,
-          image: `AUD_StanLeeSDCC_1.jpg`,
+          image: `AUD_TravelPoster4.png`,
+          width: 1 / 5,
         },
         {
-          caption: `A photo of Oscar`,
+          image: `AUD_TravelPoster5.png`,
+          width: 1 / 5,
+        },
+        {
+          caption: `Mural Concept for Audible @ Sundance`,
           date: `2020`,
-          image: `AUD_StanLeeSDCC_1.jpg`,
+          image: `AUD_SundanceMuralConcept.jpg`,
+          width: 1 / 1,
         },
       ]
     }
