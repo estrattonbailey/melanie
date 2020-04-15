@@ -64,7 +64,7 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
       content: {
         subtitle: `Illuminating an origin story created by a legend.`,
         subsubtitle: `
-To promote the highly anticipated Audible Original, *Stan Lee’s Alliances: A Trick of Light* (performed by Yara Shahidi), we invited Comic-Con attendees to navigate an immersive audio labyrinth. To introduce an entirely new universe and trio of heroes, we created an abstract experience, beginning inside a bewildering storm of light and sound that lead into a cyber-inspired maze littered with secret codes, hidden audio triggers and captivating light shows. To build buzz outside our venue, we deployed a troop of other-wordly OPTIC agents who playfully interrogated attendees throughout San Diego.
+To promote the highly anticipated Audible Original, "Stan Lee’s Alliances: A Trick of Light" (performed by Yara Shahidi), we invited Comic-Con attendees to navigate an immersive audio labyrinth. Beginning within a bewildering storm of light and sound, guests traveled deeper into a cyber-inspired maze littered with secret codes, hidden audio triggers, and captivating light shows. To build buzz outside our venue, we deployed a troop of other-worldly OPTIC agents who playfully interrogated attendees throughout San Diego.
 `,
         callouts: [
           {
