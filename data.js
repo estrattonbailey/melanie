@@ -168,7 +168,6 @@ To bring the Perrier® flavor range to life, we created a crazy colorful, 5 day 
           }
         ]
       },
-      },
       images: [
         `the-perrier-flavor-studio-7.jpg`,
         `the-perrier-flavor-studio-8.jpg`,
