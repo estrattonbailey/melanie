@@ -106,7 +106,7 @@ To promote the highly anticipated Audible Original, "Stan Lee’s Alliances: A T
       content: {
         subtitle: `A house-sized serving of holiday cheer.`,
         subsubtitle: `
-To promote Lifetime Network’s ever-growing slate of holiday movies, we built a life-sized gingerbread house filled to the brim with Instagrammable, Santa-approved surprises. To ring in the movie-watching season, the biggest stars of the “It’s A Wonderful Lifetime” line-up (including Melissa Joan Hart and Toni Braxton) gathered at The Grove to press a *real* gingerbread remote button and officially light the Home for Holiday Movies.
+To promote Lifetime Network’s ever-growing slate of holiday movies, we built a life-sized gingerbread house filled to the brim with Instagrammable, Santa-approved surprises. To ring in the movie-watching season, the biggest stars of the “It’s A Wonderful Lifetime” line-up (including Melissa Joan Hart and Toni Braxton) gathered at The Grove to activate a real gingerbread remote and officially light the Home for Holiday Movies.
 `,
         callouts: [
           {
@@ -184,7 +184,7 @@ To bring the Perrier® flavor range to life, we created a crazy colorful, 5 day 
       content: {
         subtitle: `Guilty of getting raucous on Rainey.`,
         subsubtitle: `
-To promote the upcoming release of the Audible Original, *Heads Will Roll* (featuring the voices of Kate McKinnon, Meryl Streep, and more), we invited SXSW attendees to The Night Realm Tavern on Rainey St – Austin’s first (or second) medieval-meets-hipster hang-out fittingly equipped with strong drinks, indulgent eats, and uproarious sneak peek audio of the all-star cast navigating the relatable struggles of the Middle Ages.
+To promote the upcoming release of the Audible Original, "Heads Will Roll" (featuring the voices of Kate McKinnon, Meryl Streep, and more), we invited SXSW attendees to The Night Realm Tavern on Rainey St – Austin’s first (or second) medieval-meets-hipster hang-out fittingly equipped with strong drinks, indulgent eats, and uproarious sneak peek audio of the all-star cast navigating the struggles of the Middle Ages.
 `,
         callouts: [
           {
