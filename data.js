@@ -157,7 +157,17 @@ To promote Lifetime Network’s ever-growing slate of holiday movies, we built a
         subsubtitle: `
 To bring the Perrier® flavor range to life, we created a crazy colorful, 5 day pop up experience in the heart of Soho. Featuring original work from Perrier's partner artist, AKACORLEONE, consumers were met with a myriad of opportunites to find their flavor inspiration – from live DJ sets and a digital coloring book, to an Instagram-worthy bubble ball pit and a confetti filled bar serving up mocktails in every Perrier flavor.
 `,
-        projectFor: `The Michael Alan Group`
+        callouts: [
+          {
+            label: "Role",
+            value: "Art Direction, Graphic Design"
+          },
+          {
+            label: "For",
+            value: "MAG"
+          }
+        ]
+      },
       },
       images: [
         `the-perrier-flavor-studio-7.jpg`,
