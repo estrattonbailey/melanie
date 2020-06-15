@@ -29,8 +29,8 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
       title: `A routinely updated collection of design work.`,
       works: [
         {
-          caption: `Audible Travel Poster Series`,
-          date: `2020`,
+          caption: `Travel Poster Series`,
+          date: `Audible @ SXSW, 2020`,
           image: `AUD_TravelPoster1.png`,
           width: 1 / 4,
         },
@@ -48,8 +48,8 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           width: 1 / 4,
         },
         {
-          caption: `Mural Concept for Audible @ Sundance`,
-          date: `2020`,
+          caption: `Mural Wall Concept`,
+          date: `Audible @ Sundance Festival, 2020`,
           image: `AUD_SundanceMuralConcept.jpg`,
           width: 1 / 1,
         },
