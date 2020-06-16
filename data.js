@@ -66,7 +66,7 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           image: `HBOMax_WineLabel_Casablanca.jpg`,
           width: 1 / 4,
         },
-                {
+        {
           caption: `Instagram Content`,
           date: `HBO Max + Van Leeuwen, 2020`,
           image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
@@ -117,6 +117,33 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
         {
           image: `AUD_BookCon_Approach1.jpg`,
           width: 1 / 2,
+        },
+        
+        {
+          caption: `Design Refresh`,
+          date: `Audible @ SXSW, 2020`,
+          image: `AUD_SXSW_Approach1A.jpg`,
+          width: 1 / 6,
+        },
+        {
+          image: `AUD_SXSW_Approach1B.jpg`,
+          width: 1 / 6,
+        },
+        {
+          image: `AUD_SXSW_Approach2A.jpg`,
+          width: 1 / 6,
+        },
+        {
+          image: `AUD_SXSW_Approach2B.jpg`,
+          width: 1 / 6,
+        },
+        {
+          image: `AUD_SXSW_Approach3A.jpg`,
+          width: 1 / 6,
+        },
+        {
+          image: `AUD_SXSW_Approach3B.jpg`,
+          width: 1 / 6,
         },
         
         {
