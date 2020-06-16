@@ -69,7 +69,7 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
                 {
           caption: `Instagram Content`,
           date: `HBO Max + Van Leeuwen, 2020`,
-          image: `BOMax_VanLeeuwen_IGStory1.jpg`,
+          image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
           width: 1 / 4,
         },
         {
