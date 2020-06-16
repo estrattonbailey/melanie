@@ -85,6 +85,21 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           width: 1 / 4,
         },
         
+         {
+          caption: `Download Card Concepts`,
+          date: `Audible @ SXSW, 2020`,
+          image: `AUD_SXSW_DownloadCard1.jpg`,
+          width: 1 / 3,
+        },
+        {
+          image: `AUD_SXSW_DownloadCard2.jpg`,
+          width: 1 / 3,
+        },
+        {
+          image: `AUD_SXSW_DownloadCard3.jpg`,
+          width: 1 / 3,
+        },
+        
         {
           caption: `Travel Poster Series`,
           date: `Audible @ SXSW, 2020`,
