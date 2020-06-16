@@ -28,6 +28,26 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
     misc: {
       title: `A routinely updated collection of design work.`,
       works: [
+        
+        {
+          caption: `Coffee Sticker Collection`,
+          date: `HBO Max, 2020`,
+          image: `HBOMax_Stickers_BigBangTheory.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_Stickers_CurbYourEnthusiasm.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_Stickers_GameOfThrones.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_Stickers_Friends.jpg`,
+          width: 1 / 4,
+        },
+        
          {
           caption: `Wine Label Concepts`,
           date: `HBO Max, 2020`,
@@ -70,7 +90,7 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           caption: `Instagram Content`,
           date: `HBO Max + Van Leeuwen, 2020`,
           image: `HBOMax_VanLeeuwen_IGPost.jpg`,
-          width: 1 / 4,
+          width: 2 / 4,
         },
         {
           image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
@@ -78,29 +98,6 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
         },
         {
           image: `HBOMax_VanLeeuwen_IGStory2.jpg`,
-          width: 1 / 4,
-        },
-        {
-          image: `HBOMax_VanLeeuwen_IGStory3.jpg`,
-          width: 1 / 4,
-        },
-        
-        {
-          caption: `Coffee Sticker Collection`,
-          date: `HBO Max, 2020`,
-          image: `HBOMax_Stickers_BigBangTheory.jpg`,
-          width: 1 / 4,
-        },
-        {
-          image: `HBOMax_Stickers_CurbYourEnthusiasm.jpg`,
-          width: 1 / 4,
-        },
-        {
-          image: `HBOMax_Stickers_GameOfThrones.jpg`,
-          width: 1 / 4,
-        },
-        {
-          image: `HBOMax_Stickers_Friends.jpg`,
           width: 1 / 4,
         },
         
