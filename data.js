@@ -108,18 +108,18 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           width: 1 / 1,
         },
         {
-          image: `AUD_BookCon_Approach1.jpg`,
+          image: `AUD_BookCon_Approach3.jpg`,
           width: 1 / 2,
         },
         {
-          image: `AUD_BookCon_Approach2.jpg`,
+          image: `AUD_BookCon_Approach1.jpg`,
           width: 1 / 2,
         },
         
         {
           caption: `Banner Ad Design Concepts`,
           date: `Audible @ BookCon, 2020`,
-          image: `AUD_BookCon_Approach3.jpg`,
+          image: `AUD_BookCon_Approach2.jpg`,
           width: 1 / 2,
         },
         {
