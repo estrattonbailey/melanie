@@ -28,6 +28,25 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
     misc: {
       title: `A routinely updated collection of design work.`,
       works: [
+         {
+          caption: `Wine Label Concepts`,
+          date: `HBO Max, 2020`,
+          image: `HBOMax_WineLabel_Friends.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_WineLabel_FreshPrince.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_WineLabel_SexAndTheCity.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_WineLabel_Casablanca.jpg`,
+          width: 1 / 4,
+        },
+        
         {
           caption: `Travel Poster Series`,
           date: `Audible @ SXSW, 2020`,
@@ -35,7 +54,6 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           width: 1 / 4,
         },
         {
-          date: `2020`,
           image: `AUD_TravelPoster2.png`,
           width: 1 / 4,
         },
@@ -47,11 +65,73 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           image: `AUD_TravelPoster4.png`,
           width: 1 / 4,
         },
+        
+        {
+          caption: `Instagram Content`,
+          date: `HBO Max + Van Leeuwen, 2020`,
+          image: `HBOMax_VanLeeuwen_IGPost.jpg`,
+          width: 2 / 5,
+        },
+        {
+          image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
+          width: 1 / 5,
+        },
+        {
+          image: `HBOMax_VanLeeuwen_IGStory2.jpg`,
+          width: 1 / 5,
+        },
+        {
+          image: `HBOMax_VanLeeuwen_IGStory3.jpg`,
+          width: 1 / 5,
+        },
+        
+        {
+          caption: `Sticker Collection`,
+          date: `HBO Max, 2020`,
+          image: `HBOMax_Stickers_HBOMax.jpg`,
+          width: 1 / 5,
+        },
+        {
+          image: `HBOMax_Stickers_BigBangTheory.jpg`,
+          width: 1 / 5,
+        },
+        {
+          image: `HBOMax_Stickers_CurbYourEnthusiasm.jpg`,
+          width: 1 / 5,
+        },
+        {
+          image: `HBOMax_Stickers_GameOfThrones.jpg`,
+          width: 1 / 5,
+        },
+        {
+          image: `HBOMax_Stickers_Friends.jpg`,
+          width: 1 / 5,
+        },
+        
         {
           caption: `Mural Wall Concept`,
           date: `Audible @ Sundance Festival, 2020`,
           image: `AUD_SundanceMuralConcept.jpg`,
           width: 1 / 1,
+        },
+        {
+          image: `AUD_BookCon_Approach1.jpg`,
+          width: 1 / 2,
+        },
+        {
+          image: `AUD_BookCon_Approach2.jpg`,
+          width: 1 / 2,
+        },
+        
+        {
+          caption: `Banner Ad Design Concepts`,
+          date: `Audible @ BookCon, 2020`,
+          image: `AUD_BookCon_Approach3.jpg`,
+          width: 1 / 2,
+        },
+        {
+          image: `AUD_BookCon_Approach4.jpg`,
+          width: 1 / 2,
         },
       ]
     }
