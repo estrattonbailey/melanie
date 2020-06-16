@@ -43,7 +43,7 @@ export default [
     answers: [
       {
         value: `Yes, please!`,
-        next: '/work'
+        next: '/design'
       },
       {
         value: `Nah, tell me about you.`,
@@ -92,7 +92,7 @@ export default [
     answers: [
       {
         value: `Could I see some work?`,
-        next: '/work'
+        next: '/experiential'
       },
       {
         value: `Why experiential?`,
@@ -152,7 +152,7 @@ export default [
     answers: [
       {
         value: `Let's see these "parties"!`,
-        next: '/work'
+        next: '/experiential'
       },
       {
         value: `I'm intrigued. Can I email you?`,
