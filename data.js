@@ -168,6 +168,8 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
       content: {
         subtitle: `A seven day celebration for the streaming service launch.`,
         subsubtitle: `
+To celebrate the long-awaited launch of HBO Max, we built a robust partnership program rewarding consumers nationwide with exclusive promotions and virtual events, each uniquely designed to engage audiences stuck at home amid the Covid-19 pandemic. Partners included Blue Apron, Obé Fitness, Bluestone Lane, Best Friends Animal Society, FreshDirect, Van Leeuwen Ice Cream, and Venmo
+
 Check out <a href="https://www.adweek.com/tv-video/hbo-max-celebrates-launch-week-with-quarantine-friendly-brand-partnerships-and-digital-events/" target="_blank" class="no-ajax">Adweek’s expanded coverage</a> of the program and explore more conceptual creative with my <a href="/design">design work</a>.
 `,
         callouts: [
@@ -188,6 +190,7 @@ Check out <a href="https://www.adweek.com/tv-video/hbo-max-celebrates-launch-wee
 
       images: [
         `HBOMax_1.jpg`,
+        `HBOMax_2.png`,
       ]
     },
     
