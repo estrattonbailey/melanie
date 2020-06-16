@@ -166,7 +166,7 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
       caption: `A seven day launch celebration for HBO Max.`,
       url: `/work/hbo-max`,
       content: {
-        subtitle: `A seven day celebration for the streaming service launch.`,
+        subtitle: `A seven day launch celebration for HBO Max.`,
         subsubtitle: `
 To celebrate the long-awaited launch of HBO Max, we built a robust partnership program rewarding consumers nationwide with exclusive promotions and virtual events, each uniquely designed to engage audiences stuck at home amid the Covid-19 pandemic. Partners included Blue Apron, Obé Fitness, Bluestone Lane, Best Friends Animal Society, FreshDirect, Van Leeuwen Ice Cream, and Venmo
 
