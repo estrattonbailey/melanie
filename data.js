@@ -85,17 +85,6 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           width: 1 / 4,
         },
         
-         {
-          caption: `Download Card Concepts`,
-          date: `Audible @ SXSW, 2020`,
-          image: `AUD_SXSW_DownloadCard1.jpg`,
-          width: 1 / 2,
-        },
-        {
-          image: `AUD_SXSW_DownloadCard2.jpg`,
-          width: 1 / 2,
-        },
-        
         {
           caption: `Travel Poster Series`,
           date: `Audible @ SXSW, 2020`,
@@ -115,18 +104,30 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           width: 1 / 4,
         }, 
         
+        
+         {
+          caption: `Download Card Concepts`,
+          date: `Audible @ SXSW, 2020`,
+          image: `AUD_SXSW_DownloadCard1.jpg`,
+          width: 1 / 2,
+        },
+        {
+          image: `AUD_SXSW_DownloadCard2.jpg`,
+          width: 1 / 2,
+        },
+        
           {
           caption: `Creative Refresh Concepts`,
           date: `Audible @ SXSW, 2020`,
-          image: `AUD_SXSW_Approach1B.jpg`,
+          image: `AUD_SXSW_Approach1A.jpg`,
           width: 1 / 3,
         },
         {
-          image: `AUD_SXSW_Approach2B.jpg`,
+          image: `AUD_SXSW_Approach2A.jpg`,
           width: 1 / 3,
         },
         {
-          image: `AUD_SXSW_Approach3B.jpg`,
+          image: `AUD_SXSW_Approach3A.jpg`,
           width: 1 / 3,
         },
         
