@@ -15,7 +15,7 @@ fab.pages([
   },
   {
     template: './src/markup/templates/Work.js',
-    route: 'work'
+    route: 'experiential'
   },
   {
     template: './src/markup/templates/About.js',
@@ -27,7 +27,7 @@ fab.pages([
   },
   {
     template: './src/markup/templates/Misc.js',
-    route: 'not-so-real-work'
+    route: 'design'
   }
 ])
 
