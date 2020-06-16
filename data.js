@@ -70,42 +70,38 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           caption: `Instagram Content`,
           date: `HBO Max + Van Leeuwen, 2020`,
           image: `HBOMax_VanLeeuwen_IGPost.jpg`,
-          width: 2 / 5,
+          width: 1 / 4,
         },
         {
           image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           image: `HBOMax_VanLeeuwen_IGStory2.jpg`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           image: `HBOMax_VanLeeuwen_IGStory3.jpg`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         
         {
-          caption: `Sticker Collection`,
+          caption: `Coffee Sticker Collection`,
           date: `HBO Max, 2020`,
-          image: `HBOMax_Stickers_HBOMax.jpg`,
-          width: 1 / 5,
-        },
-        {
           image: `HBOMax_Stickers_BigBangTheory.jpg`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           image: `HBOMax_Stickers_CurbYourEnthusiasm.jpg`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           image: `HBOMax_Stickers_GameOfThrones.jpg`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         {
           image: `HBOMax_Stickers_Friends.jpg`,
-          width: 1 / 5,
+          width: 1 / 4,
         },
         
         {
