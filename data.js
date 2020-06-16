@@ -90,23 +90,23 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           caption: `Instagram Content`,
           date: `HBO Max + Van Leeuwen, 2020`,
           image: `HBOMax_VanLeeuwen_IGPost.jpg`,
-          width: 2 / 6,
+          width: 1 / 5,
         },
         {
           image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
-          width: 1 / 6,
+          width: 1 / 5,
         },
         {
           image: `HBOMax_VanLeeuwen_IGStory2.jpg`,
-          width: 1 / 6,
+          width: 1 / 5,
         },
         {
-          image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
-          width: 1 / 6,
+          image: `HBOMax_VanLeeuwen_IGStory3.jpg`,
+          width: 1 / 5,
         },
         {
-          image: `HBOMax_VanLeeuwen_IGStory2.jpg`,
-          width: 1 / 6,
+          image: `HBOMax_VanLeeuwen_IGStory4.jpg`,
+          width: 1 / 5,
         },
         
         
