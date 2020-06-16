@@ -162,8 +162,8 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
   projects: [
     
       {
-      title: `HBO Max: A Week of So Much More`,
-      caption: `A seven day celebration for the streaming service launch.`,
+      title: `A Week of So Much More`,
+      caption: `A seven day launch celebration.`,
       url: `/work/hbo-max`,
       content: {
         subtitle: `A seven day celebration for the streaming service launch.`,
