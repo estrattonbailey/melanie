@@ -122,15 +122,15 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           {
           caption: `Creative Refresh Concepts`,
           date: `Audible @ SXSW, 2020`,
-          image: `AUD_SXSW_Approach1A.jpg`,
+          image: `AUD_SXSW_Approach1B.jpg`,
           width: 1 / 3,
         },
         {
-          image: `AUD_SXSW_Approach2A.jpg`,
+          image: `AUD_SXSW_Approach2B.jpg`,
           width: 1 / 3,
         },
         {
-          image: `AUD_SXSW_Approach3A.jpg`,
+          image: `AUD_SXSW_Approach3B.jpg`,
           width: 1 / 3,
         },
         
