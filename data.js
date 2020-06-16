@@ -160,6 +160,38 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
     }
   },
   projects: [
+    
+      {
+      title: `HBO Max: A Week of So Much More`,
+      caption: `A seven day celebration for the streaming service launch.`,
+      url: `/work/hbo-max`,
+      content: {
+        subtitle: `A seven day celebration for the streaming service launch.`,
+        subsubtitle: `
+Check out <a href="https://www.adweek.com/tv-video/hbo-max-celebrates-launch-week-with-quarantine-friendly-brand-partnerships-and-digital-events/" target="_blank" class="no-ajax">Adweek’s expanded coverage</a> of the program and discover more conceptual creative among my <a href="/design">design work</a>.
+`,
+        callouts: [
+          {
+            label: "Role",
+            value: "Art Direction, Graphic Design"
+          },
+          {
+            label: "For",
+            value: "CIVIC Entertainment Group"
+          },
+          {
+            label: "Creative Direction",
+            value: "Rachel Pumroy"
+          }
+        ]
+      },
+
+      images: [
+        `HBOMax_1.jpg`,
+      ]
+    },
+    
+    
     {
       title: `A Trick of Light Labyrinth @ SDCC`,
       caption: `Illuminating an origin story created by a legend.`,
