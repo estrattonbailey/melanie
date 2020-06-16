@@ -105,7 +105,7 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
         }, 
         
           {
-          caption: `Design Refresh`,
+          caption: `Creative Refresh Concepts`,
           date: `Audible @ SXSW, 2020`,
           image: `AUD_SXSW_Approach1A.jpg`,
           width: 1 / 3,
