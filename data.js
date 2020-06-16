@@ -163,12 +163,12 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
     
       {
       title: `A Week of So Much More`,
-      caption: `A seven day launch celebration.`,
+      caption: `A seven day launch celebration for HBO Max.`,
       url: `/work/hbo-max`,
       content: {
         subtitle: `A seven day celebration for the streaming service launch.`,
         subsubtitle: `
-Check out <a href="https://www.adweek.com/tv-video/hbo-max-celebrates-launch-week-with-quarantine-friendly-brand-partnerships-and-digital-events/" target="_blank" class="no-ajax">Adweek’s expanded coverage</a> of the program and discover more conceptual creative among my <a href="/design">design work</a>.
+Check out <a href="https://www.adweek.com/tv-video/hbo-max-celebrates-launch-week-with-quarantine-friendly-brand-partnerships-and-digital-events/" target="_blank" class="no-ajax">Adweek’s expanded coverage</a> of the program and explore more conceptual creative with my <a href="/design">design work</a>.
 `,
         callouts: [
           {
