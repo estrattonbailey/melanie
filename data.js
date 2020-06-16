@@ -66,6 +66,24 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
           image: `HBOMax_WineLabel_Casablanca.jpg`,
           width: 1 / 4,
         },
+                {
+          caption: `Instagram Content`,
+          date: `HBO Max + Van Leeuwen, 2020`,
+          image: `HBOMax_VanLeeuwen_IGPost.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_VanLeeuwen_IGStory2.jpg`,
+          width: 1 / 4,
+        },
+        {
+          image: `HBOMax_VanLeeuwen_IGStory3.jpg`,
+          width: 1 / 4,
+        },
         
         {
           caption: `Travel Poster Series`,
@@ -84,31 +102,7 @@ Not sure how to start the conversation? Allow me to suggest some subject lines t
         {
           image: `AUD_TravelPoster4.png`,
           width: 1 / 4,
-        },
-        
-        {
-          caption: `Instagram Content`,
-          date: `HBO Max + Van Leeuwen, 2020`,
-          image: `HBOMax_VanLeeuwen_IGPost.jpg`,
-          width: 1 / 5,
-        },
-        {
-          image: `HBOMax_VanLeeuwen_IGStory1.jpg`,
-          width: 1 / 5,
-        },
-        {
-          image: `HBOMax_VanLeeuwen_IGStory2.jpg`,
-          width: 1 / 5,
-        },
-        {
-          image: `HBOMax_VanLeeuwen_IGStory3.jpg`,
-          width: 1 / 5,
-        },
-        {
-          image: `HBOMax_VanLeeuwen_IGStory4.jpg`,
-          width: 1 / 5,
-        },
-        
+        },        
         
         {
           caption: `Mural Wall Concept`,
