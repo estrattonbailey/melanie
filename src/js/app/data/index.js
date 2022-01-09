@@ -43,7 +43,7 @@ export default [
     answers: [
       {
         value: `Yes, please!`,
-        next: '/design'
+        next: '/experiential'
       },
       {
         value: `Nah, tell me about you.`,
