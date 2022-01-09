@@ -7,7 +7,7 @@ module.exports = {
       title: "Call me Mel.",
       subtitle: `Or Melanie. It's sweet of you to ask.`,
       description: `
-To maintain my underwhelming mystique, I'm keeping this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. A few months ago, I abandoned overpriced caffeine to move to Chicago, where, unsurprisingly, coffee is still moderately expensive.
+To maintain my underwhelming mystique, I'm keeping this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. At the end of 2019, I abandoned overpriced caffeine to move to Chicago, where, unsurprisingly, coffee is still moderately expensive.
 
 I’m currently a freelance art director and graphic designer. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
 `,
