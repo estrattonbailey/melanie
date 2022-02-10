@@ -49,7 +49,7 @@
     "fab.js": "^0.3.6",
     "live-server": "^1.2.1",
     "minifyify": "*",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "onchange": "*",
     "postcss-cli": "*",
     "react": "^15.3.2",
