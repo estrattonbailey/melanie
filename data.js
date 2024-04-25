@@ -7,9 +7,9 @@ module.exports = {
       title: "Call me Mel.",
       subtitle: `Or Melanie. It's sweet of you to ask.`,
       description: `
-To preserve my underwhelming mystique, we're keeping this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. At the end of 2019 I abandoned overpriced caffeine to move to Chicago, where, unsurprisingly, coffee is still moderately expensive.
+To preserve my underwhelming mystique, we're keeping this bio short and sweet. I’m an Iowan raised on BLTs and farm chores who moved to Brooklyn because the coffee costs more. In 2019, I abandoned overpriced caffeine to move to Chicago, where, unsurprisingly, coffee is still moderately expensive.
 
-I’m currently a freelance art director and graphic designer. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
+I’m currently a freelance creative director and graphic designer. Should you fancy a more formal résumé, <a href="/images/melanie-slattery-resume.pdf" target="_blank" class="no-ajax">your wish is my command</a>.
 `,
       images: [
         [`Melanie.jpg`, `This is me.`],
